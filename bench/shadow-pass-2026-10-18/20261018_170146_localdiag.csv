@@ -1,0 +1,1833 @@
+config,view,metric,ms
+"default","square_overview",GPU frame (mean),5.9767
+"default","square_overview",GPU frame (median),5.8959
+"default","square_overview",GPU frame (p95),6.2441
+"default","square_overview",CPU (mean),2.2346
+"default","square_overview","Sky LUTs",0.0000
+"default","square_overview","Shadows",2.0168
+"default","square_overview","Shadows/Cascade 0",0.0996
+"default","square_overview","Shadows/Cascade 1",0.2076
+"default","square_overview","Shadows/Cascade 2",0.2033
+"default","square_overview","Shadows/Cascade 3",0.1289
+"default","square_overview","Shadows/Local lights",1.3764
+"default","square_overview","Clears",0.0119
+"default","square_overview","Depth pre-pass",0.0437
+"default","square_overview","Base pass",1.1912
+"default","square_overview","Base pass/opaque",0.0694
+"default","square_overview","Base pass/far alpha-tested",1.0122
+"default","square_overview","Base pass/pre-passed (EQUAL)",0.1095
+"default","square_overview","Decals",0.0040
+"default","square_overview","MSAA edge stencil",0.0529
+"default","square_overview","GTAO",0.3485
+"default","square_overview","GTAO/Linear depth",0.0260
+"default","square_overview","GTAO/Horizon search",0.2274
+"default","square_overview","GTAO/Denoise 4x4",0.0912
+"default","square_overview","Sun + ambient",0.5466
+"default","square_overview","Local lights",0.6126
+"default","square_overview","Subsurface scattering",0.0202
+"default","square_overview","Compose",0.1396
+"default","square_overview","Sky",0.0069
+"default","square_overview","Transparents + VFX",0.0818
+"default","square_overview","Transparents + VFX/Glass (forward)",0.0020
+"default","square_overview","Transparents + VFX/Half-res depth (min/max)",0.0184
+"default","square_overview","Transparents + VFX/Particles (half res)",0.0098
+"default","square_overview","Transparents + VFX/Particle composite (upsample)",0.0515
+"default","square_overview","Exposure",0.0319
+"default","square_overview","Bloom",0.1195
+"default","square_overview","Bloom/Bloom downsample",0.0905
+"default","square_overview","Bloom/Bloom upsample",0.0290
+"default","square_overview","Tone LUT bake",0.0000
+"default","square_overview","Tone map",0.1053
+"default","square_overview","Anti-aliasing",0.4191
+"default","square_overview","Anti-aliasing/SMAA edges",0.0681
+"default","square_overview","Anti-aliasing/SMAA weights",0.1437
+"default","square_overview","Anti-aliasing/SMAA blend",0.1241
+"default","square_overview","Anti-aliasing/Temporal resolve (2 frames)",0.0709
+"default","square_overview","Motion blur",0.1941
+"default","square_overview","Motion blur/Velocity pack + tile max",0.0651
+"default","square_overview","Motion blur/Neighbor max",0.0028
+"default","square_overview","Motion blur/Motion blur pass 1 (trailing)",0.0801
+"default","square_overview","Motion blur/Motion blur pass 2 (separable)",0.0460
+"default","square_overview","Final output + UI composite",0.0292
+"default","foliage_dense",GPU frame (mean),6.8719
+"default","foliage_dense",GPU frame (median),6.8696
+"default","foliage_dense",GPU frame (p95),7.1809
+"default","foliage_dense",CPU (mean),1.3133
+"default","foliage_dense","Sky LUTs",0.0000
+"default","foliage_dense","Shadows",2.6554
+"default","foliage_dense","Shadows/Cascade 0",0.4549
+"default","foliage_dense","Shadows/Cascade 1",0.4129
+"default","foliage_dense","Shadows/Cascade 2",0.1652
+"default","foliage_dense","Shadows/Cascade 3",0.0784
+"default","foliage_dense","Shadows/Local lights",1.5432
+"default","foliage_dense","Clears",0.0119
+"default","foliage_dense","Depth pre-pass",0.0504
+"default","foliage_dense","Base pass",1.8154
+"default","foliage_dense","Base pass/close alpha-tested",1.5239
+"default","foliage_dense","Base pass/opaque",0.0208
+"default","foliage_dense","Base pass/far alpha-tested",0.1875
+"default","foliage_dense","Base pass/pre-passed (EQUAL)",0.0830
+"default","foliage_dense","Decals",0.0013
+"default","foliage_dense","MSAA edge stencil",0.0558
+"default","foliage_dense","GTAO",0.3867
+"default","foliage_dense","GTAO/Linear depth",0.0216
+"default","foliage_dense","GTAO/Horizon search",0.2726
+"default","foliage_dense","GTAO/Denoise 4x4",0.0918
+"default","foliage_dense","Sun + ambient",0.4892
+"default","foliage_dense","Local lights",0.3076
+"default","foliage_dense","Subsurface scattering",0.0000
+"default","foliage_dense","Compose",0.1318
+"default","foliage_dense","Sky",0.0071
+"default","foliage_dense","Transparents + VFX",0.0745
+"default","foliage_dense","Transparents + VFX/Glass (forward)",0.0008
+"default","foliage_dense","Transparents + VFX/Half-res depth (min/max)",0.0194
+"default","foliage_dense","Transparents + VFX/Particles (half res)",0.0048
+"default","foliage_dense","Transparents + VFX/Particle composite (upsample)",0.0495
+"default","foliage_dense","Exposure",0.0304
+"default","foliage_dense","Bloom",0.1228
+"default","foliage_dense","Bloom/Bloom downsample",0.0933
+"default","foliage_dense","Bloom/Bloom upsample",0.0292
+"default","foliage_dense","Tone LUT bake",0.0000
+"default","foliage_dense","Tone map",0.1023
+"default","foliage_dense","Anti-aliasing",0.3764
+"default","foliage_dense","Anti-aliasing/SMAA edges",0.0623
+"default","foliage_dense","Anti-aliasing/SMAA weights",0.1158
+"default","foliage_dense","Anti-aliasing/SMAA blend",0.1207
+"default","foliage_dense","Anti-aliasing/Temporal resolve (2 frames)",0.0654
+"default","foliage_dense","Motion blur",0.2230
+"default","foliage_dense","Motion blur/Velocity pack + tile max",0.0662
+"default","foliage_dense","Motion blur/Neighbor max",0.0029
+"default","foliage_dense","Motion blur/Motion blur pass 1 (trailing)",0.1008
+"default","foliage_dense","Motion blur/Motion blur pass 2 (separable)",0.0531
+"default","foliage_dense","Final output + UI composite",0.0293
+"default","busts_closeup",GPU frame (mean),3.7717
+"default","busts_closeup",GPU frame (median),3.7152
+"default","busts_closeup",GPU frame (p95),4.0147
+"default","busts_closeup",CPU (mean),0.9470
+"default","busts_closeup","Sky LUTs",0.0000
+"default","busts_closeup","Shadows",0.8981
+"default","busts_closeup","Shadows/Cascade 0",0.1446
+"default","busts_closeup","Shadows/Cascade 1",0.2785
+"default","busts_closeup","Shadows/Cascade 2",0.2306
+"default","busts_closeup","Shadows/Cascade 3",0.1274
+"default","busts_closeup","Shadows/Local lights",0.1163
+"default","busts_closeup","Clears",0.0117
+"default","busts_closeup","Depth pre-pass",0.0553
+"default","busts_closeup","Base pass",0.3675
+"default","busts_closeup","Base pass/close alpha-tested",0.0040
+"default","busts_closeup","Base pass/opaque",0.0246
+"default","busts_closeup","Base pass/far alpha-tested",0.1156
+"default","busts_closeup","Base pass/pre-passed (EQUAL)",0.2231
+"default","busts_closeup","Decals",0.0040
+"default","busts_closeup","MSAA edge stencil",0.0566
+"default","busts_closeup","GTAO",0.4047
+"default","busts_closeup","GTAO/Linear depth",0.0180
+"default","busts_closeup","GTAO/Horizon search",0.2902
+"default","busts_closeup","GTAO/Denoise 4x4",0.0958
+"default","busts_closeup","Sun + ambient",0.5068
+"default","busts_closeup","Local lights",0.4762
+"default","busts_closeup","Subsurface scattering",0.0259
+"default","busts_closeup","Compose",0.1222
+"default","busts_closeup","Sky",0.0063
+"default","busts_closeup","Transparents + VFX",0.0646
+"default","busts_closeup","Transparents + VFX/Glass (forward)",0.0013
+"default","busts_closeup","Transparents + VFX/Half-res depth (min/max)",0.0176
+"default","busts_closeup","Transparents + VFX/Particles (half res)",0.0002
+"default","busts_closeup","Transparents + VFX/Particle composite (upsample)",0.0454
+"default","busts_closeup","Exposure",0.0293
+"default","busts_closeup","Bloom",0.1209
+"default","busts_closeup","Bloom/Bloom downsample",0.0915
+"default","busts_closeup","Bloom/Bloom upsample",0.0290
+"default","busts_closeup","Tone LUT bake",0.0000
+"default","busts_closeup","Tone map",0.0941
+"default","busts_closeup","Anti-aliasing",0.3610
+"default","busts_closeup","Anti-aliasing/SMAA edges",0.0619
+"default","busts_closeup","Anti-aliasing/SMAA weights",0.1154
+"default","busts_closeup","Anti-aliasing/SMAA blend",0.1148
+"default","busts_closeup","Anti-aliasing/Temporal resolve (2 frames)",0.0568
+"default","busts_closeup","Motion blur",0.1376
+"default","busts_closeup","Motion blur/Velocity pack + tile max",0.0627
+"default","busts_closeup","Motion blur/Neighbor max",0.0028
+"default","busts_closeup","Motion blur/Motion blur pass 1 (trailing)",0.0444
+"default","busts_closeup","Motion blur/Motion blur pass 2 (separable)",0.0277
+"default","busts_closeup","Final output + UI composite",0.0287
+"default","lamps",GPU frame (mean),3.3687
+"default","lamps",GPU frame (median),3.3145
+"default","lamps",GPU frame (p95),3.5824
+"default","lamps",CPU (mean),1.1318
+"default","lamps","Sky LUTs",0.0000
+"default","lamps","Shadows",0.7683
+"default","lamps","Shadows/Cascade 0",0.1085
+"default","lamps","Shadows/Cascade 1",0.1013
+"default","lamps","Shadows/Cascade 2",0.0552
+"default","lamps","Shadows/Cascade 3",0.0312
+"default","lamps","Shadows/Local lights",0.4713
+"default","lamps","Clears",0.0118
+"default","lamps","Depth pre-pass",0.0382
+"default","lamps","Base pass",0.5113
+"default","lamps","Base pass/close alpha-tested",0.0163
+"default","lamps","Base pass/opaque",0.0239
+"default","lamps","Base pass/far alpha-tested",0.3179
+"default","lamps","Base pass/pre-passed (EQUAL)",0.1531
+"default","lamps","Decals",0.0043
+"default","lamps","MSAA edge stencil",0.0474
+"default","lamps","GTAO",0.3487
+"default","lamps","GTAO/Linear depth",0.0176
+"default","lamps","GTAO/Horizon search",0.2450
+"default","lamps","GTAO/Denoise 4x4",0.0855
+"default","lamps","Sun + ambient",0.4308
+"default","lamps","Local lights",0.2432
+"default","lamps","Subsurface scattering",0.0000
+"default","lamps","Compose",0.1143
+"default","lamps","Sky",0.0076
+"default","lamps","Transparents + VFX",0.0944
+"default","lamps","Transparents + VFX/Glass (forward)",0.0011
+"default","lamps","Transparents + VFX/Half-res depth (min/max)",0.0189
+"default","lamps","Transparents + VFX/Particles (half res)",0.0321
+"default","lamps","Transparents + VFX/Particle composite (upsample)",0.0423
+"default","lamps","Exposure",0.0302
+"default","lamps","Bloom",0.1212
+"default","lamps","Bloom/Bloom downsample",0.0925
+"default","lamps","Bloom/Bloom upsample",0.0283
+"default","lamps","Tone LUT bake",0.0000
+"default","lamps","Tone map",0.0931
+"default","lamps","Anti-aliasing",0.3212
+"default","lamps","Anti-aliasing/SMAA edges",0.0589
+"default","lamps","Anti-aliasing/SMAA weights",0.0864
+"default","lamps","Anti-aliasing/SMAA blend",0.1130
+"default","lamps","Anti-aliasing/Temporal resolve (2 frames)",0.0499
+"default","lamps","Motion blur",0.1532
+"default","lamps","Motion blur/Velocity pack + tile max",0.0620
+"default","lamps","Motion blur/Neighbor max",0.0028
+"default","lamps","Motion blur/Motion blur pass 1 (trailing)",0.0575
+"default","lamps","Motion blur/Motion blur pass 2 (separable)",0.0309
+"default","lamps","Final output + UI composite",0.0292
+"default","arcade",GPU frame (mean),2.4958
+"default","arcade",GPU frame (median),2.4446
+"default","arcade",GPU frame (p95),2.7118
+"default","arcade",CPU (mean),0.3208
+"default","arcade","Sky LUTs",0.0000
+"default","arcade","Shadows",0.3156
+"default","arcade","Shadows/Cascade 0",0.0556
+"default","arcade","Shadows/Cascade 1",0.1539
+"default","arcade","Shadows/Cascade 2",0.0458
+"default","arcade","Shadows/Cascade 3",0.0142
+"default","arcade","Shadows/Local lights",0.0454
+"default","arcade","Clears",0.0116
+"default","arcade","Depth pre-pass",0.0251
+"default","arcade","Base pass",0.1810
+"default","arcade","Base pass/close alpha-tested",0.0005
+"default","arcade","Base pass/opaque",0.0023
+"default","arcade","Base pass/far alpha-tested",0.0388
+"default","arcade","Base pass/pre-passed (EQUAL)",0.1392
+"default","arcade","Decals",0.0036
+"default","arcade","MSAA edge stencil",0.0481
+"default","arcade","GTAO",0.4292
+"default","arcade","GTAO/Linear depth",0.0188
+"default","arcade","GTAO/Horizon search",0.3091
+"default","arcade","GTAO/Denoise 4x4",0.1007
+"default","arcade","Sun + ambient",0.4561
+"default","arcade","Local lights",0.2171
+"default","arcade","Subsurface scattering",0.0000
+"default","arcade","Compose",0.1047
+"default","arcade","Sky",0.0059
+"default","arcade","Transparents + VFX",0.0637
+"default","arcade","Transparents + VFX/Glass (forward)",0.0021
+"default","arcade","Transparents + VFX/Half-res depth (min/max)",0.0193
+"default","arcade","Transparents + VFX/Particles (half res)",0.0002
+"default","arcade","Transparents + VFX/Particle composite (upsample)",0.0420
+"default","arcade","Exposure",0.0276
+"default","arcade","Bloom",0.1208
+"default","arcade","Bloom/Bloom downsample",0.0916
+"default","arcade","Bloom/Bloom upsample",0.0291
+"default","arcade","Tone LUT bake",0.0000
+"default","arcade","Tone map",0.0834
+"default","arcade","Anti-aliasing",0.2524
+"default","arcade","Anti-aliasing/SMAA edges",0.0526
+"default","arcade","Anti-aliasing/SMAA weights",0.0391
+"default","arcade","Anti-aliasing/SMAA blend",0.1095
+"default","arcade","Anti-aliasing/Temporal resolve (2 frames)",0.0407
+"default","arcade","Motion blur",0.1197
+"default","arcade","Motion blur/Velocity pack + tile max",0.0599
+"default","arcade","Motion blur/Neighbor max",0.0028
+"default","arcade","Motion blur/Motion blur pass 1 (trailing)",0.0340
+"default","arcade","Motion blur/Motion blur pass 2 (separable)",0.0230
+"default","arcade","Final output + UI composite",0.0294
+"default","skyline",GPU frame (mean),4.8159
+"default","skyline",GPU frame (median),4.7540
+"default","skyline",GPU frame (p95),5.0609
+"default","skyline",CPU (mean),1.7088
+"default","skyline","Sky LUTs",0.0000
+"default","skyline","Shadows",1.7216
+"default","skyline","Shadows/Cascade 0",0.1310
+"default","skyline","Shadows/Cascade 1",0.1951
+"default","skyline","Shadows/Cascade 2",0.1484
+"default","skyline","Shadows/Cascade 3",0.0570
+"default","skyline","Shadows/Local lights",1.1894
+"default","skyline","Clears",0.0115
+"default","skyline","Depth pre-pass",0.0379
+"default","skyline","Base pass",0.7846
+"default","skyline","Base pass/close alpha-tested",0.0000
+"default","skyline","Base pass/opaque",0.0686
+"default","skyline","Base pass/far alpha-tested",0.6205
+"default","skyline","Base pass/pre-passed (EQUAL)",0.0952
+"default","skyline","Decals",0.0036
+"default","skyline","MSAA edge stencil",0.0394
+"default","skyline","GTAO",0.2343
+"default","skyline","GTAO/Linear depth",0.0165
+"default","skyline","GTAO/Horizon search",0.1553
+"default","skyline","GTAO/Denoise 4x4",0.0619
+"default","skyline","Sun + ambient",0.3494
+"default","skyline","Local lights",0.6473
+"default","skyline","Subsurface scattering",0.0254
+"default","skyline","Compose",0.1204
+"default","skyline","Sky",0.0153
+"default","skyline","Transparents + VFX",0.0792
+"default","skyline","Transparents + VFX/Glass (forward)",0.0003
+"default","skyline","Transparents + VFX/Half-res depth (min/max)",0.0171
+"default","skyline","Transparents + VFX/Particles (half res)",0.0205
+"default","skyline","Transparents + VFX/Particle composite (upsample)",0.0412
+"default","skyline","Exposure",0.0289
+"default","skyline","Bloom",0.1212
+"default","skyline","Bloom/Bloom downsample",0.0908
+"default","skyline","Bloom/Bloom upsample",0.0304
+"default","skyline","Tone LUT bake",0.0000
+"default","skyline","Tone map",0.0885
+"default","skyline","Anti-aliasing",0.3194
+"default","skyline","Anti-aliasing/SMAA edges",0.0583
+"default","skyline","Anti-aliasing/SMAA weights",0.0848
+"default","skyline","Anti-aliasing/SMAA blend",0.1126
+"default","skyline","Anti-aliasing/Temporal resolve (2 frames)",0.0528
+"default","skyline","Motion blur",0.1570
+"default","skyline","Motion blur/Velocity pack + tile max",0.0599
+"default","skyline","Motion blur/Neighbor max",0.0028
+"default","skyline","Motion blur/Motion blur pass 1 (trailing)",0.0620
+"default","skyline","Motion blur/Motion blur pass 2 (separable)",0.0323
+"default","skyline","Final output + UI composite",0.0305
+"default","cafe_neon",GPU frame (mean),3.2898
+"default","cafe_neon",GPU frame (median),3.2948
+"default","cafe_neon",GPU frame (p95),3.5711
+"default","cafe_neon",CPU (mean),0.6908
+"default","cafe_neon","Sky LUTs",0.0000
+"default","cafe_neon","Shadows",0.6689
+"default","cafe_neon","Shadows/Cascade 0",0.0773
+"default","cafe_neon","Shadows/Cascade 1",0.1521
+"default","cafe_neon","Shadows/Cascade 2",0.0542
+"default","cafe_neon","Shadows/Cascade 3",0.0144
+"default","cafe_neon","Shadows/Local lights",0.3702
+"default","cafe_neon","Clears",0.0112
+"default","cafe_neon","Depth pre-pass",0.0463
+"default","cafe_neon","Base pass",0.2673
+"default","cafe_neon","Base pass/close alpha-tested",0.0067
+"default","cafe_neon","Base pass/opaque",0.0109
+"default","cafe_neon","Base pass/far alpha-tested",0.0506
+"default","cafe_neon","Base pass/pre-passed (EQUAL)",0.1989
+"default","cafe_neon","Decals",0.0002
+"default","cafe_neon","MSAA edge stencil",0.0564
+"default","cafe_neon","GTAO",0.4298
+"default","cafe_neon","GTAO/Linear depth",0.0178
+"default","cafe_neon","GTAO/Horizon search",0.3117
+"default","cafe_neon","GTAO/Denoise 4x4",0.0998
+"default","cafe_neon","Sun + ambient",0.5343
+"default","cafe_neon","Local lights",0.3451
+"default","cafe_neon","Subsurface scattering",0.0000
+"default","cafe_neon","Compose",0.1228
+"default","cafe_neon","Sky",0.0067
+"default","cafe_neon","Transparents + VFX",0.0715
+"default","cafe_neon","Transparents + VFX/Glass (forward)",0.0057
+"default","cafe_neon","Transparents + VFX/Half-res depth (min/max)",0.0191
+"default","cafe_neon","Transparents + VFX/Particles (half res)",0.0002
+"default","cafe_neon","Transparents + VFX/Particle composite (upsample)",0.0464
+"default","cafe_neon","Exposure",0.0281
+"default","cafe_neon","Bloom",0.1217
+"default","cafe_neon","Bloom/Bloom downsample",0.0930
+"default","cafe_neon","Bloom/Bloom upsample",0.0284
+"default","cafe_neon","Tone LUT bake",0.0000
+"default","cafe_neon","Tone map",0.0943
+"default","cafe_neon","Anti-aliasing",0.3280
+"default","cafe_neon","Anti-aliasing/SMAA edges",0.0618
+"default","cafe_neon","Anti-aliasing/SMAA weights",0.0885
+"default","cafe_neon","Anti-aliasing/SMAA blend",0.1134
+"default","cafe_neon","Anti-aliasing/Temporal resolve (2 frames)",0.0521
+"default","cafe_neon","Motion blur",0.1282
+"default","cafe_neon","Motion blur/Velocity pack + tile max",0.0637
+"default","cafe_neon","Motion blur/Neighbor max",0.0028
+"default","cafe_neon","Motion blur/Motion blur pass 1 (trailing)",0.0371
+"default","cafe_neon","Motion blur/Motion blur pass 2 (separable)",0.0246
+"default","cafe_neon","Final output + UI composite",0.0281
+"default","market",GPU frame (mean),4.2091
+"default","market",GPU frame (median),4.1594
+"default","market",GPU frame (p95),4.4660
+"default","market",CPU (mean),1.1547
+"default","market","Sky LUTs",0.0000
+"default","market","Shadows",1.1368
+"default","market","Shadows/Cascade 0",0.2979
+"default","market","Shadows/Cascade 1",0.3028
+"default","market","Shadows/Cascade 2",0.1508
+"default","market","Shadows/Cascade 3",0.0852
+"default","market","Shadows/Local lights",0.2994
+"default","market","Clears",0.0117
+"default","market","Depth pre-pass",0.0492
+"default","market","Base pass",0.4300
+"default","market","Base pass/close alpha-tested",0.1334
+"default","market","Base pass/opaque",0.0308
+"default","market","Base pass/far alpha-tested",0.0717
+"default","market","Base pass/pre-passed (EQUAL)",0.1939
+"default","market","Decals",0.0063
+"default","market","MSAA edge stencil",0.0508
+"default","market","GTAO",0.4319
+"default","market","GTAO/Linear depth",0.0204
+"default","market","GTAO/Horizon search",0.2802
+"default","market","GTAO/Denoise 4x4",0.1306
+"default","market","Sun + ambient",0.5186
+"default","market","Local lights",0.5084
+"default","market","Subsurface scattering",0.0213
+"default","market","Compose",0.1206
+"default","market","Sky",0.0067
+"default","market","Transparents + VFX",0.0705
+"default","market","Transparents + VFX/Glass (forward)",0.0011
+"default","market","Transparents + VFX/Half-res depth (min/max)",0.0180
+"default","market","Transparents + VFX/Particles (half res)",0.0021
+"default","market","Transparents + VFX/Particle composite (upsample)",0.0493
+"default","market","Exposure",0.0300
+"default","market","Bloom",0.1207
+"default","market","Bloom/Bloom downsample",0.0915
+"default","market","Bloom/Bloom upsample",0.0288
+"default","market","Tone LUT bake",0.0000
+"default","market","Tone map",0.0979
+"default","market","Anti-aliasing",0.4070
+"default","market","Anti-aliasing/SMAA edges",0.0698
+"default","market","Anti-aliasing/SMAA weights",0.1450
+"default","market","Anti-aliasing/SMAA blend",0.1188
+"default","market","Anti-aliasing/Temporal resolve (2 frames)",0.0632
+"default","market","Motion blur",0.1617
+"default","market","Motion blur/Velocity pack + tile max",0.0611
+"default","market","Motion blur/Neighbor max",0.0028
+"default","market","Motion blur/Motion blur pass 1 (trailing)",0.0605
+"default","market","Motion blur/Motion blur pass 2 (separable)",0.0374
+"default","market","Final output + UI composite",0.0284
+"default","camera path",GPU frame (mean),4.7134
+"default","camera path",GPU frame (median),3.8710
+"default","camera path",GPU frame (p95),7.6924
+"default","camera path",CPU (mean),1.2451
+"default","camera path","Sky LUTs",0.0000
+"default","camera path","Shadows",1.5221
+"default","camera path","Shadows/Cascade 0",0.2655
+"default","camera path","Shadows/Cascade 1",0.2515
+"default","camera path","Shadows/Cascade 2",0.1312
+"default","camera path","Shadows/Cascade 3",0.0781
+"default","camera path","Shadows/Local lights",0.7950
+"default","camera path","Clears",0.0118
+"default","camera path","Depth pre-pass",0.0397
+"default","camera path","Base pass",0.7509
+"default","camera path","Base pass/close alpha-tested",0.3920
+"default","camera path","Base pass/opaque",0.0317
+"default","camera path","Base pass/far alpha-tested",0.1748
+"default","camera path","Base pass/pre-passed (EQUAL)",0.1522
+"default","camera path","Decals",0.0035
+"default","camera path","MSAA edge stencil",0.0522
+"default","camera path","GTAO",0.4019
+"default","camera path","GTAO/Linear depth",0.0192
+"default","camera path","GTAO/Horizon search",0.2751
+"default","camera path","GTAO/Denoise 4x4",0.1070
+"default","camera path","Sun + ambient",0.4876
+"default","camera path","Local lights",0.4205
+"default","camera path","Subsurface scattering",0.0092
+"default","camera path","Compose",0.1267
+"default","camera path","Sky",0.0068
+"default","camera path","Transparents + VFX",0.0780
+"default","camera path","Transparents + VFX/Glass (forward)",0.0017
+"default","camera path","Transparents + VFX/Half-res depth (min/max)",0.0197
+"default","camera path","Transparents + VFX/Particles (half res)",0.0095
+"default","camera path","Transparents + VFX/Particle composite (upsample)",0.0470
+"default","camera path","Exposure",0.0300
+"default","camera path","Bloom",0.1216
+"default","camera path","Bloom/Bloom downsample",0.0929
+"default","camera path","Bloom/Bloom upsample",0.0284
+"default","camera path","Tone LUT bake",0.0000
+"default","camera path","Tone map",0.0906
+"default","camera path","Anti-aliasing",0.3340
+"default","camera path","Anti-aliasing/SMAA edges",0.0602
+"default","camera path","Anti-aliasing/SMAA weights",0.1016
+"default","camera path","Anti-aliasing/SMAA blend",0.1155
+"default","camera path","Anti-aliasing/Temporal resolve (2 frames)",0.0459
+"default","camera path","Motion blur",0.1960
+"default","camera path","Motion blur/Velocity pack + tile max",0.0627
+"default","camera path","Motion blur/Neighbor max",0.0028
+"default","camera path","Motion blur/Motion blur pass 1 (trailing)",0.0867
+"default","camera path","Motion blur/Motion blur pass 2 (separable)",0.0438
+"default","camera path","Final output + UI composite",0.0298
+"no wind casters in local maps","square_overview",GPU frame (mean),4.8000
+"no wind casters in local maps","square_overview",GPU frame (median),4.7153
+"no wind casters in local maps","square_overview",GPU frame (p95),5.1005
+"no wind casters in local maps","square_overview",CPU (mean),2.2277
+"no wind casters in local maps","square_overview","Sky LUTs",0.0000
+"no wind casters in local maps","square_overview","Shadows",0.7563
+"no wind casters in local maps","square_overview","Shadows/Cascade 0",0.0990
+"no wind casters in local maps","square_overview","Shadows/Cascade 1",0.2123
+"no wind casters in local maps","square_overview","Shadows/Cascade 2",0.2052
+"no wind casters in local maps","square_overview","Shadows/Cascade 3",0.1257
+"no wind casters in local maps","square_overview","Shadows/Local lights",0.1131
+"no wind casters in local maps","square_overview","Clears",0.0116
+"no wind casters in local maps","square_overview","Depth pre-pass",0.0445
+"no wind casters in local maps","square_overview","Base pass",1.2142
+"no wind casters in local maps","square_overview","Base pass/opaque",0.0682
+"no wind casters in local maps","square_overview","Base pass/far alpha-tested",1.0346
+"no wind casters in local maps","square_overview","Base pass/pre-passed (EQUAL)",0.1111
+"no wind casters in local maps","square_overview","Decals",0.0041
+"no wind casters in local maps","square_overview","MSAA edge stencil",0.0563
+"no wind casters in local maps","square_overview","GTAO",0.3538
+"no wind casters in local maps","square_overview","GTAO/Linear depth",0.0248
+"no wind casters in local maps","square_overview","GTAO/Horizon search",0.2357
+"no wind casters in local maps","square_overview","GTAO/Denoise 4x4",0.0927
+"no wind casters in local maps","square_overview","Sun + ambient",0.5620
+"no wind casters in local maps","square_overview","Local lights",0.6385
+"no wind casters in local maps","square_overview","Subsurface scattering",0.0174
+"no wind casters in local maps","square_overview","Compose",0.1405
+"no wind casters in local maps","square_overview","Sky",0.0070
+"no wind casters in local maps","square_overview","Transparents + VFX",0.0815
+"no wind casters in local maps","square_overview","Transparents + VFX/Glass (forward)",0.0020
+"no wind casters in local maps","square_overview","Transparents + VFX/Half-res depth (min/max)",0.0183
+"no wind casters in local maps","square_overview","Transparents + VFX/Particles (half res)",0.0084
+"no wind casters in local maps","square_overview","Transparents + VFX/Particle composite (upsample)",0.0529
+"no wind casters in local maps","square_overview","Exposure",0.0324
+"no wind casters in local maps","square_overview","Bloom",0.1211
+"no wind casters in local maps","square_overview","Bloom/Bloom downsample",0.0920
+"no wind casters in local maps","square_overview","Bloom/Bloom upsample",0.0291
+"no wind casters in local maps","square_overview","Tone LUT bake",0.0000
+"no wind casters in local maps","square_overview","Tone map",0.1063
+"no wind casters in local maps","square_overview","Anti-aliasing",0.4218
+"no wind casters in local maps","square_overview","Anti-aliasing/SMAA edges",0.0669
+"no wind casters in local maps","square_overview","Anti-aliasing/SMAA weights",0.1482
+"no wind casters in local maps","square_overview","Anti-aliasing/SMAA blend",0.1242
+"no wind casters in local maps","square_overview","Anti-aliasing/Temporal resolve (2 frames)",0.0712
+"no wind casters in local maps","square_overview","Motion blur",0.1993
+"no wind casters in local maps","square_overview","Motion blur/Velocity pack + tile max",0.0654
+"no wind casters in local maps","square_overview","Motion blur/Neighbor max",0.0028
+"no wind casters in local maps","square_overview","Motion blur/Motion blur pass 1 (trailing)",0.0838
+"no wind casters in local maps","square_overview","Motion blur/Motion blur pass 2 (separable)",0.0473
+"no wind casters in local maps","square_overview","Final output + UI composite",0.0305
+"no wind casters in local maps","foliage_dense",GPU frame (mean),5.5716
+"no wind casters in local maps","foliage_dense",GPU frame (median),5.5433
+"no wind casters in local maps","foliage_dense",GPU frame (p95),5.8405
+"no wind casters in local maps","foliage_dense",CPU (mean),1.3147
+"no wind casters in local maps","foliage_dense","Sky LUTs",0.0000
+"no wind casters in local maps","foliage_dense","Shadows",1.2080
+"no wind casters in local maps","foliage_dense","Shadows/Cascade 0",0.4579
+"no wind casters in local maps","foliage_dense","Shadows/Cascade 1",0.4109
+"no wind casters in local maps","foliage_dense","Shadows/Cascade 2",0.1655
+"no wind casters in local maps","foliage_dense","Shadows/Cascade 3",0.0805
+"no wind casters in local maps","foliage_dense","Shadows/Local lights",0.0924
+"no wind casters in local maps","foliage_dense","Clears",0.0116
+"no wind casters in local maps","foliage_dense","Depth pre-pass",0.0502
+"no wind casters in local maps","foliage_dense","Base pass",1.8615
+"no wind casters in local maps","foliage_dense","Base pass/close alpha-tested",1.5606
+"no wind casters in local maps","foliage_dense","Base pass/opaque",0.0210
+"no wind casters in local maps","foliage_dense","Base pass/far alpha-tested",0.1959
+"no wind casters in local maps","foliage_dense","Base pass/pre-passed (EQUAL)",0.0838
+"no wind casters in local maps","foliage_dense","Decals",0.0022
+"no wind casters in local maps","foliage_dense","MSAA edge stencil",0.0530
+"no wind casters in local maps","foliage_dense","GTAO",0.3940
+"no wind casters in local maps","foliage_dense","GTAO/Linear depth",0.0208
+"no wind casters in local maps","foliage_dense","GTAO/Horizon search",0.2760
+"no wind casters in local maps","foliage_dense","GTAO/Denoise 4x4",0.0965
+"no wind casters in local maps","foliage_dense","Sun + ambient",0.4935
+"no wind casters in local maps","foliage_dense","Local lights",0.3101
+"no wind casters in local maps","foliage_dense","Subsurface scattering",0.0000
+"no wind casters in local maps","foliage_dense","Compose",0.1346
+"no wind casters in local maps","foliage_dense","Sky",0.0071
+"no wind casters in local maps","foliage_dense","Transparents + VFX",0.0746
+"no wind casters in local maps","foliage_dense","Transparents + VFX/Glass (forward)",0.0008
+"no wind casters in local maps","foliage_dense","Transparents + VFX/Half-res depth (min/max)",0.0200
+"no wind casters in local maps","foliage_dense","Transparents + VFX/Particles (half res)",0.0048
+"no wind casters in local maps","foliage_dense","Transparents + VFX/Particle composite (upsample)",0.0490
+"no wind casters in local maps","foliage_dense","Exposure",0.0306
+"no wind casters in local maps","foliage_dense","Bloom",0.1221
+"no wind casters in local maps","foliage_dense","Bloom/Bloom downsample",0.0932
+"no wind casters in local maps","foliage_dense","Bloom/Bloom upsample",0.0285
+"no wind casters in local maps","foliage_dense","Tone LUT bake",0.0000
+"no wind casters in local maps","foliage_dense","Tone map",0.1025
+"no wind casters in local maps","foliage_dense","Anti-aliasing",0.4570
+"no wind casters in local maps","foliage_dense","Anti-aliasing/SMAA edges",0.0621
+"no wind casters in local maps","foliage_dense","Anti-aliasing/SMAA weights",0.1122
+"no wind casters in local maps","foliage_dense","Anti-aliasing/SMAA blend",0.2073
+"no wind casters in local maps","foliage_dense","Anti-aliasing/Temporal resolve (2 frames)",0.0646
+"no wind casters in local maps","foliage_dense","Motion blur",0.2288
+"no wind casters in local maps","foliage_dense","Motion blur/Velocity pack + tile max",0.0661
+"no wind casters in local maps","foliage_dense","Motion blur/Neighbor max",0.0029
+"no wind casters in local maps","foliage_dense","Motion blur/Motion blur pass 1 (trailing)",0.1075
+"no wind casters in local maps","foliage_dense","Motion blur/Motion blur pass 2 (separable)",0.0523
+"no wind casters in local maps","foliage_dense","Final output + UI composite",0.0298
+"no wind casters in local maps","busts_closeup",GPU frame (mean),3.7920
+"no wind casters in local maps","busts_closeup",GPU frame (median),3.7354
+"no wind casters in local maps","busts_closeup",GPU frame (p95),4.0441
+"no wind casters in local maps","busts_closeup",CPU (mean),0.9504
+"no wind casters in local maps","busts_closeup","Sky LUTs",0.0000
+"no wind casters in local maps","busts_closeup","Shadows",0.8791
+"no wind casters in local maps","busts_closeup","Shadows/Cascade 0",0.1455
+"no wind casters in local maps","busts_closeup","Shadows/Cascade 1",0.2828
+"no wind casters in local maps","busts_closeup","Shadows/Cascade 2",0.2294
+"no wind casters in local maps","busts_closeup","Shadows/Cascade 3",0.1312
+"no wind casters in local maps","busts_closeup","Shadows/Local lights",0.0894
+"no wind casters in local maps","busts_closeup","Clears",0.0125
+"no wind casters in local maps","busts_closeup","Depth pre-pass",0.0555
+"no wind casters in local maps","busts_closeup","Base pass",0.3735
+"no wind casters in local maps","busts_closeup","Base pass/close alpha-tested",0.0041
+"no wind casters in local maps","busts_closeup","Base pass/opaque",0.0246
+"no wind casters in local maps","busts_closeup","Base pass/far alpha-tested",0.1155
+"no wind casters in local maps","busts_closeup","Base pass/pre-passed (EQUAL)",0.2291
+"no wind casters in local maps","busts_closeup","Decals",0.0040
+"no wind casters in local maps","busts_closeup","MSAA edge stencil",0.0566
+"no wind casters in local maps","busts_closeup","GTAO",0.4103
+"no wind casters in local maps","busts_closeup","GTAO/Linear depth",0.0183
+"no wind casters in local maps","busts_closeup","GTAO/Horizon search",0.2939
+"no wind casters in local maps","busts_closeup","GTAO/Denoise 4x4",0.0975
+"no wind casters in local maps","busts_closeup","Sun + ambient",0.5221
+"no wind casters in local maps","busts_closeup","Local lights",0.4858
+"no wind casters in local maps","busts_closeup","Subsurface scattering",0.0250
+"no wind casters in local maps","busts_closeup","Compose",0.1195
+"no wind casters in local maps","busts_closeup","Sky",0.0064
+"no wind casters in local maps","busts_closeup","Transparents + VFX",0.0655
+"no wind casters in local maps","busts_closeup","Transparents + VFX/Glass (forward)",0.0013
+"no wind casters in local maps","busts_closeup","Transparents + VFX/Half-res depth (min/max)",0.0178
+"no wind casters in local maps","busts_closeup","Transparents + VFX/Particles (half res)",0.0002
+"no wind casters in local maps","busts_closeup","Transparents + VFX/Particle composite (upsample)",0.0461
+"no wind casters in local maps","busts_closeup","Exposure",0.0286
+"no wind casters in local maps","busts_closeup","Bloom",0.1211
+"no wind casters in local maps","busts_closeup","Bloom/Bloom downsample",0.0915
+"no wind casters in local maps","busts_closeup","Bloom/Bloom upsample",0.0292
+"no wind casters in local maps","busts_closeup","Tone LUT bake",0.0000
+"no wind casters in local maps","busts_closeup","Tone map",0.0925
+"no wind casters in local maps","busts_closeup","Anti-aliasing",0.3676
+"no wind casters in local maps","busts_closeup","Anti-aliasing/SMAA edges",0.0618
+"no wind casters in local maps","busts_closeup","Anti-aliasing/SMAA weights",0.1188
+"no wind casters in local maps","busts_closeup","Anti-aliasing/SMAA blend",0.1179
+"no wind casters in local maps","busts_closeup","Anti-aliasing/Temporal resolve (2 frames)",0.0577
+"no wind casters in local maps","busts_closeup","Motion blur",0.1380
+"no wind casters in local maps","busts_closeup","Motion blur/Velocity pack + tile max",0.0628
+"no wind casters in local maps","busts_closeup","Motion blur/Neighbor max",0.0028
+"no wind casters in local maps","busts_closeup","Motion blur/Motion blur pass 1 (trailing)",0.0441
+"no wind casters in local maps","busts_closeup","Motion blur/Motion blur pass 2 (separable)",0.0283
+"no wind casters in local maps","busts_closeup","Final output + UI composite",0.0281
+"no wind casters in local maps","lamps",GPU frame (mean),3.0399
+"no wind casters in local maps","lamps",GPU frame (median),2.9870
+"no wind casters in local maps","lamps",GPU frame (p95),3.2632
+"no wind casters in local maps","lamps",CPU (mean),1.1162
+"no wind casters in local maps","lamps","Sky LUTs",0.0000
+"no wind casters in local maps","lamps","Shadows",0.4070
+"no wind casters in local maps","lamps","Shadows/Cascade 0",0.1112
+"no wind casters in local maps","lamps","Shadows/Cascade 1",0.1020
+"no wind casters in local maps","lamps","Shadows/Cascade 2",0.0546
+"no wind casters in local maps","lamps","Shadows/Cascade 3",0.0328
+"no wind casters in local maps","lamps","Shadows/Local lights",0.1057
+"no wind casters in local maps","lamps","Clears",0.0115
+"no wind casters in local maps","lamps","Depth pre-pass",0.0377
+"no wind casters in local maps","lamps","Base pass",0.5181
+"no wind casters in local maps","lamps","Base pass/close alpha-tested",0.0161
+"no wind casters in local maps","lamps","Base pass/opaque",0.0251
+"no wind casters in local maps","lamps","Base pass/far alpha-tested",0.3225
+"no wind casters in local maps","lamps","Base pass/pre-passed (EQUAL)",0.1543
+"no wind casters in local maps","lamps","Decals",0.0043
+"no wind casters in local maps","lamps","MSAA edge stencil",0.0489
+"no wind casters in local maps","lamps","GTAO",0.3574
+"no wind casters in local maps","lamps","GTAO/Linear depth",0.0179
+"no wind casters in local maps","lamps","GTAO/Horizon search",0.2505
+"no wind casters in local maps","lamps","GTAO/Denoise 4x4",0.0883
+"no wind casters in local maps","lamps","Sun + ambient",0.4400
+"no wind casters in local maps","lamps","Local lights",0.2507
+"no wind casters in local maps","lamps","Subsurface scattering",0.0000
+"no wind casters in local maps","lamps","Compose",0.1156
+"no wind casters in local maps","lamps","Sky",0.0068
+"no wind casters in local maps","lamps","Transparents + VFX",0.0960
+"no wind casters in local maps","lamps","Transparents + VFX/Glass (forward)",0.0011
+"no wind casters in local maps","lamps","Transparents + VFX/Half-res depth (min/max)",0.0191
+"no wind casters in local maps","lamps","Transparents + VFX/Particles (half res)",0.0324
+"no wind casters in local maps","lamps","Transparents + VFX/Particle composite (upsample)",0.0434
+"no wind casters in local maps","lamps","Exposure",0.0286
+"no wind casters in local maps","lamps","Bloom",0.1215
+"no wind casters in local maps","lamps","Bloom/Bloom downsample",0.0921
+"no wind casters in local maps","lamps","Bloom/Bloom upsample",0.0290
+"no wind casters in local maps","lamps","Tone LUT bake",0.0000
+"no wind casters in local maps","lamps","Tone map",0.0915
+"no wind casters in local maps","lamps","Anti-aliasing",0.3212
+"no wind casters in local maps","lamps","Anti-aliasing/SMAA edges",0.0584
+"no wind casters in local maps","lamps","Anti-aliasing/SMAA weights",0.0881
+"no wind casters in local maps","lamps","Anti-aliasing/SMAA blend",0.1128
+"no wind casters in local maps","lamps","Anti-aliasing/Temporal resolve (2 frames)",0.0505
+"no wind casters in local maps","lamps","Motion blur",0.1537
+"no wind casters in local maps","lamps","Motion blur/Velocity pack + tile max",0.0628
+"no wind casters in local maps","lamps","Motion blur/Neighbor max",0.0028
+"no wind casters in local maps","lamps","Motion blur/Motion blur pass 1 (trailing)",0.0573
+"no wind casters in local maps","lamps","Motion blur/Motion blur pass 2 (separable)",0.0307
+"no wind casters in local maps","lamps","Final output + UI composite",0.0288
+"no wind casters in local maps","arcade",GPU frame (mean),2.5253
+"no wind casters in local maps","arcade",GPU frame (median),2.4757
+"no wind casters in local maps","arcade",GPU frame (p95),2.7356
+"no wind casters in local maps","arcade",CPU (mean),0.3211
+"no wind casters in local maps","arcade","Sky LUTs",0.0000
+"no wind casters in local maps","arcade","Shadows",0.3158
+"no wind casters in local maps","arcade","Shadows/Cascade 0",0.0560
+"no wind casters in local maps","arcade","Shadows/Cascade 1",0.1531
+"no wind casters in local maps","arcade","Shadows/Cascade 2",0.0460
+"no wind casters in local maps","arcade","Shadows/Cascade 3",0.0143
+"no wind casters in local maps","arcade","Shadows/Local lights",0.0457
+"no wind casters in local maps","arcade","Clears",0.0116
+"no wind casters in local maps","arcade","Depth pre-pass",0.0252
+"no wind casters in local maps","arcade","Base pass",0.1831
+"no wind casters in local maps","arcade","Base pass/close alpha-tested",0.0005
+"no wind casters in local maps","arcade","Base pass/opaque",0.0023
+"no wind casters in local maps","arcade","Base pass/far alpha-tested",0.0404
+"no wind casters in local maps","arcade","Base pass/pre-passed (EQUAL)",0.1396
+"no wind casters in local maps","arcade","Decals",0.0037
+"no wind casters in local maps","arcade","MSAA edge stencil",0.0483
+"no wind casters in local maps","arcade","GTAO",0.4324
+"no wind casters in local maps","arcade","GTAO/Linear depth",0.0174
+"no wind casters in local maps","arcade","GTAO/Horizon search",0.3157
+"no wind casters in local maps","arcade","GTAO/Denoise 4x4",0.0987
+"no wind casters in local maps","arcade","Sun + ambient",0.4672
+"no wind casters in local maps","arcade","Local lights",0.2198
+"no wind casters in local maps","arcade","Subsurface scattering",0.0000
+"no wind casters in local maps","arcade","Compose",0.1052
+"no wind casters in local maps","arcade","Sky",0.0059
+"no wind casters in local maps","arcade","Transparents + VFX",0.0643
+"no wind casters in local maps","arcade","Transparents + VFX/Glass (forward)",0.0022
+"no wind casters in local maps","arcade","Transparents + VFX/Half-res depth (min/max)",0.0198
+"no wind casters in local maps","arcade","Transparents + VFX/Particles (half res)",0.0002
+"no wind casters in local maps","arcade","Transparents + VFX/Particle composite (upsample)",0.0421
+"no wind casters in local maps","arcade","Exposure",0.0287
+"no wind casters in local maps","arcade","Bloom",0.1219
+"no wind casters in local maps","arcade","Bloom/Bloom downsample",0.0933
+"no wind casters in local maps","arcade","Bloom/Bloom upsample",0.0285
+"no wind casters in local maps","arcade","Tone LUT bake",0.0000
+"no wind casters in local maps","arcade","Tone map",0.0853
+"no wind casters in local maps","arcade","Anti-aliasing",0.2563
+"no wind casters in local maps","arcade","Anti-aliasing/SMAA edges",0.0548
+"no wind casters in local maps","arcade","Anti-aliasing/SMAA weights",0.0390
+"no wind casters in local maps","arcade","Anti-aliasing/SMAA blend",0.1091
+"no wind casters in local maps","arcade","Anti-aliasing/Temporal resolve (2 frames)",0.0412
+"no wind casters in local maps","arcade","Motion blur",0.1206
+"no wind casters in local maps","arcade","Motion blur/Velocity pack + tile max",0.0616
+"no wind casters in local maps","arcade","Motion blur/Neighbor max",0.0028
+"no wind casters in local maps","arcade","Motion blur/Motion blur pass 1 (trailing)",0.0343
+"no wind casters in local maps","arcade","Motion blur/Motion blur pass 2 (separable)",0.0219
+"no wind casters in local maps","arcade","Final output + UI composite",0.0290
+"no wind casters in local maps","skyline",GPU frame (mean),3.8039
+"no wind casters in local maps","skyline",GPU frame (median),3.7566
+"no wind casters in local maps","skyline",GPU frame (p95),4.0377
+"no wind casters in local maps","skyline",CPU (mean),1.6496
+"no wind casters in local maps","skyline","Sky LUTs",0.0000
+"no wind casters in local maps","skyline","Shadows",0.6435
+"no wind casters in local maps","skyline","Shadows/Cascade 0",0.1354
+"no wind casters in local maps","skyline","Shadows/Cascade 1",0.1992
+"no wind casters in local maps","skyline","Shadows/Cascade 2",0.1470
+"no wind casters in local maps","skyline","Shadows/Cascade 3",0.0571
+"no wind casters in local maps","skyline","Shadows/Local lights",0.1042
+"no wind casters in local maps","skyline","Clears",0.0117
+"no wind casters in local maps","skyline","Depth pre-pass",0.0384
+"no wind casters in local maps","skyline","Base pass",0.7885
+"no wind casters in local maps","skyline","Base pass/close alpha-tested",0.0000
+"no wind casters in local maps","skyline","Base pass/opaque",0.0701
+"no wind casters in local maps","skyline","Base pass/far alpha-tested",0.6207
+"no wind casters in local maps","skyline","Base pass/pre-passed (EQUAL)",0.0975
+"no wind casters in local maps","skyline","Decals",0.0035
+"no wind casters in local maps","skyline","MSAA edge stencil",0.0946
+"no wind casters in local maps","skyline","GTAO",0.2321
+"no wind casters in local maps","skyline","GTAO/Linear depth",0.0165
+"no wind casters in local maps","skyline","GTAO/Horizon search",0.1558
+"no wind casters in local maps","skyline","GTAO/Denoise 4x4",0.0592
+"no wind casters in local maps","skyline","Sun + ambient",0.3493
+"no wind casters in local maps","skyline","Local lights",0.6513
+"no wind casters in local maps","skyline","Subsurface scattering",0.0206
+"no wind casters in local maps","skyline","Compose",0.1195
+"no wind casters in local maps","skyline","Sky",0.0153
+"no wind casters in local maps","skyline","Transparents + VFX",0.0825
+"no wind casters in local maps","skyline","Transparents + VFX/Glass (forward)",0.0003
+"no wind casters in local maps","skyline","Transparents + VFX/Half-res depth (min/max)",0.0172
+"no wind casters in local maps","skyline","Transparents + VFX/Particles (half res)",0.0216
+"no wind casters in local maps","skyline","Transparents + VFX/Particle composite (upsample)",0.0434
+"no wind casters in local maps","skyline","Exposure",0.0295
+"no wind casters in local maps","skyline","Bloom",0.1214
+"no wind casters in local maps","skyline","Bloom/Bloom downsample",0.0922
+"no wind casters in local maps","skyline","Bloom/Bloom upsample",0.0291
+"no wind casters in local maps","skyline","Tone LUT bake",0.0000
+"no wind casters in local maps","skyline","Tone map",0.0912
+"no wind casters in local maps","skyline","Anti-aliasing",0.3213
+"no wind casters in local maps","skyline","Anti-aliasing/SMAA edges",0.0562
+"no wind casters in local maps","skyline","Anti-aliasing/SMAA weights",0.0855
+"no wind casters in local maps","skyline","Anti-aliasing/SMAA blend",0.1139
+"no wind casters in local maps","skyline","Anti-aliasing/Temporal resolve (2 frames)",0.0521
+"no wind casters in local maps","skyline","Motion blur",0.1607
+"no wind casters in local maps","skyline","Motion blur/Velocity pack + tile max",0.0622
+"no wind casters in local maps","skyline","Motion blur/Neighbor max",0.0028
+"no wind casters in local maps","skyline","Motion blur/Motion blur pass 1 (trailing)",0.0647
+"no wind casters in local maps","skyline","Motion blur/Motion blur pass 2 (separable)",0.0310
+"no wind casters in local maps","skyline","Final output + UI composite",0.0284
+"no wind casters in local maps","cafe_neon",GPU frame (mean),3.0103
+"no wind casters in local maps","cafe_neon",GPU frame (median),2.9553
+"no wind casters in local maps","cafe_neon",GPU frame (p95),3.2186
+"no wind casters in local maps","cafe_neon",CPU (mean),0.6817
+"no wind casters in local maps","cafe_neon","Sky LUTs",0.0000
+"no wind casters in local maps","cafe_neon","Shadows",0.3815
+"no wind casters in local maps","cafe_neon","Shadows/Cascade 0",0.0778
+"no wind casters in local maps","cafe_neon","Shadows/Cascade 1",0.1560
+"no wind casters in local maps","cafe_neon","Shadows/Cascade 2",0.0517
+"no wind casters in local maps","cafe_neon","Shadows/Cascade 3",0.0144
+"no wind casters in local maps","cafe_neon","Shadows/Local lights",0.0809
+"no wind casters in local maps","cafe_neon","Clears",0.0116
+"no wind casters in local maps","cafe_neon","Depth pre-pass",0.0474
+"no wind casters in local maps","cafe_neon","Base pass",0.2689
+"no wind casters in local maps","cafe_neon","Base pass/close alpha-tested",0.0067
+"no wind casters in local maps","cafe_neon","Base pass/opaque",0.0096
+"no wind casters in local maps","cafe_neon","Base pass/far alpha-tested",0.0494
+"no wind casters in local maps","cafe_neon","Base pass/pre-passed (EQUAL)",0.2029
+"no wind casters in local maps","cafe_neon","Decals",0.0002
+"no wind casters in local maps","cafe_neon","MSAA edge stencil",0.0561
+"no wind casters in local maps","cafe_neon","GTAO",0.4309
+"no wind casters in local maps","cafe_neon","GTAO/Linear depth",0.0187
+"no wind casters in local maps","cafe_neon","GTAO/Horizon search",0.3106
+"no wind casters in local maps","cafe_neon","GTAO/Denoise 4x4",0.1010
+"no wind casters in local maps","cafe_neon","Sun + ambient",0.5317
+"no wind casters in local maps","cafe_neon","Local lights",0.3498
+"no wind casters in local maps","cafe_neon","Subsurface scattering",0.0000
+"no wind casters in local maps","cafe_neon","Compose",0.1254
+"no wind casters in local maps","cafe_neon","Sky",0.0066
+"no wind casters in local maps","cafe_neon","Transparents + VFX",0.0718
+"no wind casters in local maps","cafe_neon","Transparents + VFX/Glass (forward)",0.0058
+"no wind casters in local maps","cafe_neon","Transparents + VFX/Half-res depth (min/max)",0.0191
+"no wind casters in local maps","cafe_neon","Transparents + VFX/Particles (half res)",0.0002
+"no wind casters in local maps","cafe_neon","Transparents + VFX/Particle composite (upsample)",0.0466
+"no wind casters in local maps","cafe_neon","Exposure",0.0297
+"no wind casters in local maps","cafe_neon","Bloom",0.1245
+"no wind casters in local maps","cafe_neon","Bloom/Bloom downsample",0.0957
+"no wind casters in local maps","cafe_neon","Bloom/Bloom upsample",0.0285
+"no wind casters in local maps","cafe_neon","Tone LUT bake",0.0000
+"no wind casters in local maps","cafe_neon","Tone map",0.0924
+"no wind casters in local maps","cafe_neon","Anti-aliasing",0.3262
+"no wind casters in local maps","cafe_neon","Anti-aliasing/SMAA edges",0.0601
+"no wind casters in local maps","cafe_neon","Anti-aliasing/SMAA weights",0.0890
+"no wind casters in local maps","cafe_neon","Anti-aliasing/SMAA blend",0.1138
+"no wind casters in local maps","cafe_neon","Anti-aliasing/Temporal resolve (2 frames)",0.0518
+"no wind casters in local maps","cafe_neon","Motion blur",0.1264
+"no wind casters in local maps","cafe_neon","Motion blur/Velocity pack + tile max",0.0630
+"no wind casters in local maps","cafe_neon","Motion blur/Neighbor max",0.0029
+"no wind casters in local maps","cafe_neon","Motion blur/Motion blur pass 1 (trailing)",0.0368
+"no wind casters in local maps","cafe_neon","Motion blur/Motion blur pass 2 (separable)",0.0237
+"no wind casters in local maps","cafe_neon","Final output + UI composite",0.0282
+"no wind casters in local maps","market",GPU frame (mean),4.0296
+"no wind casters in local maps","market",GPU frame (median),3.9617
+"no wind casters in local maps","market",GPU frame (p95),4.3135
+"no wind casters in local maps","market",CPU (mean),1.1347
+"no wind casters in local maps","market","Sky LUTs",0.0000
+"no wind casters in local maps","market","Shadows",0.9576
+"no wind casters in local maps","market","Shadows/Cascade 0",0.3007
+"no wind casters in local maps","market","Shadows/Cascade 1",0.3092
+"no wind casters in local maps","market","Shadows/Cascade 2",0.1488
+"no wind casters in local maps","market","Shadows/Cascade 3",0.0843
+"no wind casters in local maps","market","Shadows/Local lights",0.1138
+"no wind casters in local maps","market","Clears",0.0115
+"no wind casters in local maps","market","Depth pre-pass",0.0494
+"no wind casters in local maps","market","Base pass",0.4294
+"no wind casters in local maps","market","Base pass/close alpha-tested",0.1337
+"no wind casters in local maps","market","Base pass/opaque",0.0302
+"no wind casters in local maps","market","Base pass/far alpha-tested",0.0711
+"no wind casters in local maps","market","Base pass/pre-passed (EQUAL)",0.1942
+"no wind casters in local maps","market","Decals",0.0055
+"no wind casters in local maps","market","MSAA edge stencil",0.0511
+"no wind casters in local maps","market","GTAO",0.4043
+"no wind casters in local maps","market","GTAO/Linear depth",0.0198
+"no wind casters in local maps","market","GTAO/Horizon search",0.2818
+"no wind casters in local maps","market","GTAO/Denoise 4x4",0.1020
+"no wind casters in local maps","market","Sun + ambient",0.5251
+"no wind casters in local maps","market","Local lights",0.5169
+"no wind casters in local maps","market","Subsurface scattering",0.0213
+"no wind casters in local maps","market","Compose",0.1215
+"no wind casters in local maps","market","Sky",0.0073
+"no wind casters in local maps","market","Transparents + VFX",0.0694
+"no wind casters in local maps","market","Transparents + VFX/Glass (forward)",0.0011
+"no wind casters in local maps","market","Transparents + VFX/Half-res depth (min/max)",0.0181
+"no wind casters in local maps","market","Transparents + VFX/Particles (half res)",0.0030
+"no wind casters in local maps","market","Transparents + VFX/Particle composite (upsample)",0.0472
+"no wind casters in local maps","market","Exposure",0.0294
+"no wind casters in local maps","market","Bloom",0.1241
+"no wind casters in local maps","market","Bloom/Bloom downsample",0.0945
+"no wind casters in local maps","market","Bloom/Bloom upsample",0.0293
+"no wind casters in local maps","market","Tone LUT bake",0.0000
+"no wind casters in local maps","market","Tone map",0.0977
+"no wind casters in local maps","market","Anti-aliasing",0.4064
+"no wind casters in local maps","market","Anti-aliasing/SMAA edges",0.0660
+"no wind casters in local maps","market","Anti-aliasing/SMAA weights",0.1465
+"no wind casters in local maps","market","Anti-aliasing/SMAA blend",0.1196
+"no wind casters in local maps","market","Anti-aliasing/Temporal resolve (2 frames)",0.0630
+"no wind casters in local maps","market","Motion blur",0.1724
+"no wind casters in local maps","market","Motion blur/Velocity pack + tile max",0.0639
+"no wind casters in local maps","market","Motion blur/Neighbor max",0.0031
+"no wind casters in local maps","market","Motion blur/Motion blur pass 1 (trailing)",0.0639
+"no wind casters in local maps","market","Motion blur/Motion blur pass 2 (separable)",0.0415
+"no wind casters in local maps","market","Final output + UI composite",0.0287
+"no wind casters in local maps","camera path",GPU frame (mean),4.0849
+"no wind casters in local maps","camera path",GPU frame (median),3.7630
+"no wind casters in local maps","camera path",GPU frame (p95),5.9029
+"no wind casters in local maps","camera path",CPU (mean),1.2279
+"no wind casters in local maps","camera path","Sky LUTs",0.0000
+"no wind casters in local maps","camera path","Shadows",0.8460
+"no wind casters in local maps","camera path","Shadows/Cascade 0",0.2690
+"no wind casters in local maps","camera path","Shadows/Cascade 1",0.2538
+"no wind casters in local maps","camera path","Shadows/Cascade 2",0.1323
+"no wind casters in local maps","camera path","Shadows/Cascade 3",0.0783
+"no wind casters in local maps","camera path","Shadows/Local lights",0.1118
+"no wind casters in local maps","camera path","Clears",0.0116
+"no wind casters in local maps","camera path","Depth pre-pass",0.0397
+"no wind casters in local maps","camera path","Base pass",0.7551
+"no wind casters in local maps","camera path","Base pass/close alpha-tested",0.3956
+"no wind casters in local maps","camera path","Base pass/opaque",0.0322
+"no wind casters in local maps","camera path","Base pass/far alpha-tested",0.1734
+"no wind casters in local maps","camera path","Base pass/pre-passed (EQUAL)",0.1537
+"no wind casters in local maps","camera path","Decals",0.0036
+"no wind casters in local maps","camera path","MSAA edge stencil",0.0543
+"no wind casters in local maps","camera path","GTAO",0.3994
+"no wind casters in local maps","camera path","GTAO/Linear depth",0.0193
+"no wind casters in local maps","camera path","GTAO/Horizon search",0.2827
+"no wind casters in local maps","camera path","GTAO/Denoise 4x4",0.0968
+"no wind casters in local maps","camera path","Sun + ambient",0.5425
+"no wind casters in local maps","camera path","Local lights",0.4019
+"no wind casters in local maps","camera path","Subsurface scattering",0.0101
+"no wind casters in local maps","camera path","Compose",0.1235
+"no wind casters in local maps","camera path","Sky",0.0068
+"no wind casters in local maps","camera path","Transparents + VFX",0.0772
+"no wind casters in local maps","camera path","Transparents + VFX/Glass (forward)",0.0015
+"no wind casters in local maps","camera path","Transparents + VFX/Half-res depth (min/max)",0.0197
+"no wind casters in local maps","camera path","Transparents + VFX/Particles (half res)",0.0095
+"no wind casters in local maps","camera path","Transparents + VFX/Particle composite (upsample)",0.0465
+"no wind casters in local maps","camera path","Exposure",0.0309
+"no wind casters in local maps","camera path","Bloom",0.1223
+"no wind casters in local maps","camera path","Bloom/Bloom downsample",0.0934
+"no wind casters in local maps","camera path","Bloom/Bloom upsample",0.0287
+"no wind casters in local maps","camera path","Tone LUT bake",0.0000
+"no wind casters in local maps","camera path","Tone map",0.0929
+"no wind casters in local maps","camera path","Anti-aliasing",0.3353
+"no wind casters in local maps","camera path","Anti-aliasing/SMAA edges",0.0607
+"no wind casters in local maps","camera path","Anti-aliasing/SMAA weights",0.1009
+"no wind casters in local maps","camera path","Anti-aliasing/SMAA blend",0.1161
+"no wind casters in local maps","camera path","Anti-aliasing/Temporal resolve (2 frames)",0.0451
+"no wind casters in local maps","camera path","Motion blur",0.2017
+"no wind casters in local maps","camera path","Motion blur/Velocity pack + tile max",0.0620
+"no wind casters in local maps","camera path","Motion blur/Neighbor max",0.0033
+"no wind casters in local maps","camera path","Motion blur/Motion blur pass 1 (trailing)",0.0903
+"no wind casters in local maps","camera path","Motion blur/Motion blur pass 2 (separable)",0.0461
+"no wind casters in local maps","camera path","Final output + UI composite",0.0296
+"only wind casters in local maps","square_overview",GPU frame (mean),6.4030
+"only wind casters in local maps","square_overview",GPU frame (median),6.3438
+"only wind casters in local maps","square_overview",GPU frame (p95),6.6562
+"only wind casters in local maps","square_overview",CPU (mean),2.1383
+"only wind casters in local maps","square_overview","Sky LUTs",0.0000
+"only wind casters in local maps","square_overview","Shadows",2.3231
+"only wind casters in local maps","square_overview","Shadows/Cascade 0",0.1013
+"only wind casters in local maps","square_overview","Shadows/Cascade 1",0.2133
+"only wind casters in local maps","square_overview","Shadows/Cascade 2",0.2078
+"only wind casters in local maps","square_overview","Shadows/Cascade 3",0.1261
+"only wind casters in local maps","square_overview","Shadows/Local lights",1.6737
+"only wind casters in local maps","square_overview","Clears",0.0124
+"only wind casters in local maps","square_overview","Depth pre-pass",0.0441
+"only wind casters in local maps","square_overview","Base pass",1.2396
+"only wind casters in local maps","square_overview","Base pass/opaque",0.0698
+"only wind casters in local maps","square_overview","Base pass/far alpha-tested",1.0560
+"only wind casters in local maps","square_overview","Base pass/pre-passed (EQUAL)",0.1136
+"only wind casters in local maps","square_overview","Decals",0.0042
+"only wind casters in local maps","square_overview","MSAA edge stencil",0.0543
+"only wind casters in local maps","square_overview","GTAO",0.3636
+"only wind casters in local maps","square_overview","GTAO/Linear depth",0.0248
+"only wind casters in local maps","square_overview","GTAO/Horizon search",0.2428
+"only wind casters in local maps","square_overview","GTAO/Denoise 4x4",0.0954
+"only wind casters in local maps","square_overview","Sun + ambient",0.5717
+"only wind casters in local maps","square_overview","Local lights",0.6359
+"only wind casters in local maps","square_overview","Subsurface scattering",0.0175
+"only wind casters in local maps","square_overview","Compose",0.1406
+"only wind casters in local maps","square_overview","Sky",0.0070
+"only wind casters in local maps","square_overview","Transparents + VFX",0.0822
+"only wind casters in local maps","square_overview","Transparents + VFX/Glass (forward)",0.0021
+"only wind casters in local maps","square_overview","Transparents + VFX/Half-res depth (min/max)",0.0184
+"only wind casters in local maps","square_overview","Transparents + VFX/Particles (half res)",0.0085
+"only wind casters in local maps","square_overview","Transparents + VFX/Particle composite (upsample)",0.0532
+"only wind casters in local maps","square_overview","Exposure",0.0317
+"only wind casters in local maps","square_overview","Bloom",0.1212
+"only wind casters in local maps","square_overview","Bloom/Bloom downsample",0.0926
+"only wind casters in local maps","square_overview","Bloom/Bloom upsample",0.0285
+"only wind casters in local maps","square_overview","Tone LUT bake",0.0000
+"only wind casters in local maps","square_overview","Tone map",0.1066
+"only wind casters in local maps","square_overview","Anti-aliasing",0.4221
+"only wind casters in local maps","square_overview","Anti-aliasing/SMAA edges",0.0668
+"only wind casters in local maps","square_overview","Anti-aliasing/SMAA weights",0.1492
+"only wind casters in local maps","square_overview","Anti-aliasing/SMAA blend",0.1223
+"only wind casters in local maps","square_overview","Anti-aliasing/Temporal resolve (2 frames)",0.0732
+"only wind casters in local maps","square_overview","Motion blur",0.1952
+"only wind casters in local maps","square_overview","Motion blur/Velocity pack + tile max",0.0669
+"only wind casters in local maps","square_overview","Motion blur/Neighbor max",0.0029
+"only wind casters in local maps","square_overview","Motion blur/Motion blur pass 1 (trailing)",0.0794
+"only wind casters in local maps","square_overview","Motion blur/Motion blur pass 2 (separable)",0.0461
+"only wind casters in local maps","square_overview","Final output + UI composite",0.0293
+"only wind casters in local maps","foliage_dense",GPU frame (mean),7.4244
+"only wind casters in local maps","foliage_dense",GPU frame (median),7.4315
+"only wind casters in local maps","foliage_dense",GPU frame (p95),7.7236
+"only wind casters in local maps","foliage_dense",CPU (mean),1.2913
+"only wind casters in local maps","foliage_dense","Sky LUTs",0.0000
+"only wind casters in local maps","foliage_dense","Shadows",3.1084
+"only wind casters in local maps","foliage_dense","Shadows/Cascade 0",0.4669
+"only wind casters in local maps","foliage_dense","Shadows/Cascade 1",0.4160
+"only wind casters in local maps","foliage_dense","Shadows/Cascade 2",0.1674
+"only wind casters in local maps","foliage_dense","Shadows/Cascade 3",0.0787
+"only wind casters in local maps","foliage_dense","Shadows/Local lights",1.9787
+"only wind casters in local maps","foliage_dense","Clears",0.0125
+"only wind casters in local maps","foliage_dense","Depth pre-pass",0.0516
+"only wind casters in local maps","foliage_dense","Base pass",1.8680
+"only wind casters in local maps","foliage_dense","Base pass/close alpha-tested",1.5668
+"only wind casters in local maps","foliage_dense","Base pass/opaque",0.0215
+"only wind casters in local maps","foliage_dense","Base pass/far alpha-tested",0.1965
+"only wind casters in local maps","foliage_dense","Base pass/pre-passed (EQUAL)",0.0831
+"only wind casters in local maps","foliage_dense","Decals",0.0014
+"only wind casters in local maps","foliage_dense","MSAA edge stencil",0.0531
+"only wind casters in local maps","foliage_dense","GTAO",0.4010
+"only wind casters in local maps","foliage_dense","GTAO/Linear depth",0.0211
+"only wind casters in local maps","foliage_dense","GTAO/Horizon search",0.2818
+"only wind casters in local maps","foliage_dense","GTAO/Denoise 4x4",0.0973
+"only wind casters in local maps","foliage_dense","Sun + ambient",0.5030
+"only wind casters in local maps","foliage_dense","Local lights",0.3172
+"only wind casters in local maps","foliage_dense","Subsurface scattering",0.0000
+"only wind casters in local maps","foliage_dense","Compose",0.1358
+"only wind casters in local maps","foliage_dense","Sky",0.0080
+"only wind casters in local maps","foliage_dense","Transparents + VFX",0.0741
+"only wind casters in local maps","foliage_dense","Transparents + VFX/Glass (forward)",0.0008
+"only wind casters in local maps","foliage_dense","Transparents + VFX/Half-res depth (min/max)",0.0196
+"only wind casters in local maps","foliage_dense","Transparents + VFX/Particles (half res)",0.0048
+"only wind casters in local maps","foliage_dense","Transparents + VFX/Particle composite (upsample)",0.0488
+"only wind casters in local maps","foliage_dense","Exposure",0.0306
+"only wind casters in local maps","foliage_dense","Bloom",0.1216
+"only wind casters in local maps","foliage_dense","Bloom/Bloom downsample",0.0926
+"only wind casters in local maps","foliage_dense","Bloom/Bloom upsample",0.0286
+"only wind casters in local maps","foliage_dense","Tone LUT bake",0.0000
+"only wind casters in local maps","foliage_dense","Tone map",0.1005
+"only wind casters in local maps","foliage_dense","Anti-aliasing",0.3833
+"only wind casters in local maps","foliage_dense","Anti-aliasing/SMAA edges",0.0644
+"only wind casters in local maps","foliage_dense","Anti-aliasing/SMAA weights",0.1176
+"only wind casters in local maps","foliage_dense","Anti-aliasing/SMAA blend",0.1233
+"only wind casters in local maps","foliage_dense","Anti-aliasing/Temporal resolve (2 frames)",0.0667
+"only wind casters in local maps","foliage_dense","Motion blur",0.2237
+"only wind casters in local maps","foliage_dense","Motion blur/Velocity pack + tile max",0.0682
+"only wind casters in local maps","foliage_dense","Motion blur/Neighbor max",0.0029
+"only wind casters in local maps","foliage_dense","Motion blur/Motion blur pass 1 (trailing)",0.1015
+"only wind casters in local maps","foliage_dense","Motion blur/Motion blur pass 2 (separable)",0.0510
+"only wind casters in local maps","foliage_dense","Final output + UI composite",0.0301
+"only wind casters in local maps","busts_closeup",GPU frame (mean),3.9578
+"only wind casters in local maps","busts_closeup",GPU frame (median),3.9053
+"only wind casters in local maps","busts_closeup",GPU frame (p95),4.2065
+"only wind casters in local maps","busts_closeup",CPU (mean),0.9170
+"only wind casters in local maps","busts_closeup","Sky LUTs",0.0000
+"only wind casters in local maps","busts_closeup","Shadows",1.0304
+"only wind casters in local maps","busts_closeup","Shadows/Cascade 0",0.1442
+"only wind casters in local maps","busts_closeup","Shadows/Cascade 1",0.2839
+"only wind casters in local maps","busts_closeup","Shadows/Cascade 2",0.2305
+"only wind casters in local maps","busts_closeup","Shadows/Cascade 3",0.1290
+"only wind casters in local maps","busts_closeup","Shadows/Local lights",0.2418
+"only wind casters in local maps","busts_closeup","Clears",0.0116
+"only wind casters in local maps","busts_closeup","Depth pre-pass",0.0535
+"only wind casters in local maps","busts_closeup","Base pass",0.3711
+"only wind casters in local maps","busts_closeup","Base pass/close alpha-tested",0.0040
+"only wind casters in local maps","busts_closeup","Base pass/opaque",0.0257
+"only wind casters in local maps","busts_closeup","Base pass/far alpha-tested",0.1163
+"only wind casters in local maps","busts_closeup","Base pass/pre-passed (EQUAL)",0.2250
+"only wind casters in local maps","busts_closeup","Decals",0.0040
+"only wind casters in local maps","busts_closeup","MSAA edge stencil",0.0553
+"only wind casters in local maps","busts_closeup","GTAO",0.4202
+"only wind casters in local maps","busts_closeup","GTAO/Linear depth",0.0183
+"only wind casters in local maps","busts_closeup","GTAO/Horizon search",0.2981
+"only wind casters in local maps","busts_closeup","GTAO/Denoise 4x4",0.1032
+"only wind casters in local maps","busts_closeup","Sun + ambient",0.5244
+"only wind casters in local maps","busts_closeup","Local lights",0.4883
+"only wind casters in local maps","busts_closeup","Subsurface scattering",0.0249
+"only wind casters in local maps","busts_closeup","Compose",0.1213
+"only wind casters in local maps","busts_closeup","Sky",0.0063
+"only wind casters in local maps","busts_closeup","Transparents + VFX",0.0652
+"only wind casters in local maps","busts_closeup","Transparents + VFX/Glass (forward)",0.0014
+"only wind casters in local maps","busts_closeup","Transparents + VFX/Half-res depth (min/max)",0.0179
+"only wind casters in local maps","busts_closeup","Transparents + VFX/Particles (half res)",0.0002
+"only wind casters in local maps","busts_closeup","Transparents + VFX/Particle composite (upsample)",0.0456
+"only wind casters in local maps","busts_closeup","Exposure",0.0287
+"only wind casters in local maps","busts_closeup","Bloom",0.1215
+"only wind casters in local maps","busts_closeup","Bloom/Bloom downsample",0.0926
+"only wind casters in local maps","busts_closeup","Bloom/Bloom upsample",0.0285
+"only wind casters in local maps","busts_closeup","Tone LUT bake",0.0000
+"only wind casters in local maps","busts_closeup","Tone map",0.0931
+"only wind casters in local maps","busts_closeup","Anti-aliasing",0.3708
+"only wind casters in local maps","busts_closeup","Anti-aliasing/SMAA edges",0.0640
+"only wind casters in local maps","busts_closeup","Anti-aliasing/SMAA weights",0.1196
+"only wind casters in local maps","busts_closeup","Anti-aliasing/SMAA blend",0.1193
+"only wind casters in local maps","busts_closeup","Anti-aliasing/Temporal resolve (2 frames)",0.0564
+"only wind casters in local maps","busts_closeup","Motion blur",0.1383
+"only wind casters in local maps","busts_closeup","Motion blur/Velocity pack + tile max",0.0645
+"only wind casters in local maps","busts_closeup","Motion blur/Neighbor max",0.0029
+"only wind casters in local maps","busts_closeup","Motion blur/Motion blur pass 1 (trailing)",0.0435
+"only wind casters in local maps","busts_closeup","Motion blur/Motion blur pass 2 (separable)",0.0274
+"only wind casters in local maps","busts_closeup","Final output + UI composite",0.0284
+"only wind casters in local maps","lamps",GPU frame (mean),3.5119
+"only wind casters in local maps","lamps",GPU frame (median),3.4554
+"only wind casters in local maps","lamps",GPU frame (p95),3.7368
+"only wind casters in local maps","lamps",CPU (mean),1.0995
+"only wind casters in local maps","lamps","Sky LUTs",0.0000
+"only wind casters in local maps","lamps","Shadows",0.8546
+"only wind casters in local maps","lamps","Shadows/Cascade 0",0.1111
+"only wind casters in local maps","lamps","Shadows/Cascade 1",0.1021
+"only wind casters in local maps","lamps","Shadows/Cascade 2",0.0544
+"only wind casters in local maps","lamps","Shadows/Cascade 3",0.0321
+"only wind casters in local maps","lamps","Shadows/Local lights",0.5543
+"only wind casters in local maps","lamps","Clears",0.0120
+"only wind casters in local maps","lamps","Depth pre-pass",0.0386
+"only wind casters in local maps","lamps","Base pass",0.5182
+"only wind casters in local maps","lamps","Base pass/close alpha-tested",0.0159
+"only wind casters in local maps","lamps","Base pass/opaque",0.0239
+"only wind casters in local maps","lamps","Base pass/far alpha-tested",0.3219
+"only wind casters in local maps","lamps","Base pass/pre-passed (EQUAL)",0.1564
+"only wind casters in local maps","lamps","Decals",0.0044
+"only wind casters in local maps","lamps","MSAA edge stencil",0.0491
+"only wind casters in local maps","lamps","GTAO",0.3632
+"only wind casters in local maps","lamps","GTAO/Linear depth",0.0198
+"only wind casters in local maps","lamps","GTAO/Horizon search",0.2546
+"only wind casters in local maps","lamps","GTAO/Denoise 4x4",0.0881
+"only wind casters in local maps","lamps","Sun + ambient",0.4438
+"only wind casters in local maps","lamps","Local lights",0.2505
+"only wind casters in local maps","lamps","Subsurface scattering",0.0000
+"only wind casters in local maps","lamps","Compose",0.1172
+"only wind casters in local maps","lamps","Sky",0.0069
+"only wind casters in local maps","lamps","Transparents + VFX",0.0971
+"only wind casters in local maps","lamps","Transparents + VFX/Glass (forward)",0.0011
+"only wind casters in local maps","lamps","Transparents + VFX/Half-res depth (min/max)",0.0193
+"only wind casters in local maps","lamps","Transparents + VFX/Particles (half res)",0.0326
+"only wind casters in local maps","lamps","Transparents + VFX/Particle composite (upsample)",0.0441
+"only wind casters in local maps","lamps","Exposure",0.0287
+"only wind casters in local maps","lamps","Bloom",0.1225
+"only wind casters in local maps","lamps","Bloom/Bloom downsample",0.0935
+"only wind casters in local maps","lamps","Bloom/Bloom upsample",0.0286
+"only wind casters in local maps","lamps","Tone LUT bake",0.0000
+"only wind casters in local maps","lamps","Tone map",0.0905
+"only wind casters in local maps","lamps","Anti-aliasing",0.3294
+"only wind casters in local maps","lamps","Anti-aliasing/SMAA edges",0.0601
+"only wind casters in local maps","lamps","Anti-aliasing/SMAA weights",0.0893
+"only wind casters in local maps","lamps","Anti-aliasing/SMAA blend",0.1163
+"only wind casters in local maps","lamps","Anti-aliasing/Temporal resolve (2 frames)",0.0531
+"only wind casters in local maps","lamps","Motion blur",0.1557
+"only wind casters in local maps","lamps","Motion blur/Velocity pack + tile max",0.0632
+"only wind casters in local maps","lamps","Motion blur/Neighbor max",0.0029
+"only wind casters in local maps","lamps","Motion blur/Motion blur pass 1 (trailing)",0.0584
+"only wind casters in local maps","lamps","Motion blur/Motion blur pass 2 (separable)",0.0313
+"only wind casters in local maps","lamps","Final output + UI composite",0.0291
+"only wind casters in local maps","arcade",GPU frame (mean),2.4965
+"only wind casters in local maps","arcade",GPU frame (median),2.4474
+"only wind casters in local maps","arcade",GPU frame (p95),2.7068
+"only wind casters in local maps","arcade",CPU (mean),0.3132
+"only wind casters in local maps","arcade","Sky LUTs",0.0000
+"only wind casters in local maps","arcade","Shadows",0.2697
+"only wind casters in local maps","arcade","Shadows/Cascade 0",0.0572
+"only wind casters in local maps","arcade","Shadows/Cascade 1",0.1514
+"only wind casters in local maps","arcade","Shadows/Cascade 2",0.0460
+"only wind casters in local maps","arcade","Shadows/Cascade 3",0.0143
+"only wind casters in local maps","arcade","Shadows/Local lights",0.0000
+"only wind casters in local maps","arcade","Clears",0.0079
+"only wind casters in local maps","arcade","Depth pre-pass",0.0254
+"only wind casters in local maps","arcade","Base pass",0.1828
+"only wind casters in local maps","arcade","Base pass/close alpha-tested",0.0004
+"only wind casters in local maps","arcade","Base pass/opaque",0.0023
+"only wind casters in local maps","arcade","Base pass/far alpha-tested",0.0390
+"only wind casters in local maps","arcade","Base pass/pre-passed (EQUAL)",0.1408
+"only wind casters in local maps","arcade","Decals",0.0037
+"only wind casters in local maps","arcade","MSAA edge stencil",0.0490
+"only wind casters in local maps","arcade","GTAO",0.4378
+"only wind casters in local maps","arcade","GTAO/Linear depth",0.0185
+"only wind casters in local maps","arcade","GTAO/Horizon search",0.3154
+"only wind casters in local maps","arcade","GTAO/Denoise 4x4",0.1033
+"only wind casters in local maps","arcade","Sun + ambient",0.4757
+"only wind casters in local maps","arcade","Local lights",0.2217
+"only wind casters in local maps","arcade","Subsurface scattering",0.0000
+"only wind casters in local maps","arcade","Compose",0.1055
+"only wind casters in local maps","arcade","Sky",0.0069
+"only wind casters in local maps","arcade","Transparents + VFX",0.0652
+"only wind casters in local maps","arcade","Transparents + VFX/Glass (forward)",0.0022
+"only wind casters in local maps","arcade","Transparents + VFX/Half-res depth (min/max)",0.0201
+"only wind casters in local maps","arcade","Transparents + VFX/Particles (half res)",0.0002
+"only wind casters in local maps","arcade","Transparents + VFX/Particle composite (upsample)",0.0426
+"only wind casters in local maps","arcade","Exposure",0.0279
+"only wind casters in local maps","arcade","Bloom",0.1230
+"only wind casters in local maps","arcade","Bloom/Bloom downsample",0.0935
+"only wind casters in local maps","arcade","Bloom/Bloom upsample",0.0295
+"only wind casters in local maps","arcade","Tone LUT bake",0.0000
+"only wind casters in local maps","arcade","Tone map",0.0855
+"only wind casters in local maps","arcade","Anti-aliasing",0.2570
+"only wind casters in local maps","arcade","Anti-aliasing/SMAA edges",0.0540
+"only wind casters in local maps","arcade","Anti-aliasing/SMAA weights",0.0392
+"only wind casters in local maps","arcade","Anti-aliasing/SMAA blend",0.1113
+"only wind casters in local maps","arcade","Anti-aliasing/Temporal resolve (2 frames)",0.0410
+"only wind casters in local maps","arcade","Motion blur",0.1216
+"only wind casters in local maps","arcade","Motion blur/Velocity pack + tile max",0.0626
+"only wind casters in local maps","arcade","Motion blur/Neighbor max",0.0029
+"only wind casters in local maps","arcade","Motion blur/Motion blur pass 1 (trailing)",0.0345
+"only wind casters in local maps","arcade","Motion blur/Motion blur pass 2 (separable)",0.0216
+"only wind casters in local maps","arcade","Final output + UI composite",0.0294
+"only wind casters in local maps","skyline",GPU frame (mean),5.0276
+"only wind casters in local maps","skyline",GPU frame (median),4.9695
+"only wind casters in local maps","skyline",GPU frame (p95),5.2722
+"only wind casters in local maps","skyline",CPU (mean),1.6239
+"only wind casters in local maps","skyline","Sky LUTs",0.0000
+"only wind casters in local maps","skyline","Shadows",1.8737
+"only wind casters in local maps","skyline","Shadows/Cascade 0",0.1343
+"only wind casters in local maps","skyline","Shadows/Cascade 1",0.1988
+"only wind casters in local maps","skyline","Shadows/Cascade 2",0.1447
+"only wind casters in local maps","skyline","Shadows/Cascade 3",0.0554
+"only wind casters in local maps","skyline","Shadows/Local lights",1.3398
+"only wind casters in local maps","skyline","Clears",0.0121
+"only wind casters in local maps","skyline","Depth pre-pass",0.0374
+"only wind casters in local maps","skyline","Base pass",0.8095
+"only wind casters in local maps","skyline","Base pass/close alpha-tested",0.0000
+"only wind casters in local maps","skyline","Base pass/opaque",0.0710
+"only wind casters in local maps","skyline","Base pass/far alpha-tested",0.6376
+"only wind casters in local maps","skyline","Base pass/pre-passed (EQUAL)",0.1007
+"only wind casters in local maps","skyline","Decals",0.0036
+"only wind casters in local maps","skyline","MSAA edge stencil",0.0412
+"only wind casters in local maps","skyline","GTAO",0.2398
+"only wind casters in local maps","skyline","GTAO/Linear depth",0.0189
+"only wind casters in local maps","skyline","GTAO/Horizon search",0.1577
+"only wind casters in local maps","skyline","GTAO/Denoise 4x4",0.0626
+"only wind casters in local maps","skyline","Sun + ambient",0.3608
+"only wind casters in local maps","skyline","Local lights",0.6502
+"only wind casters in local maps","skyline","Subsurface scattering",0.0206
+"only wind casters in local maps","skyline","Compose",0.1216
+"only wind casters in local maps","skyline","Sky",0.0146
+"only wind casters in local maps","skyline","Transparents + VFX",0.0817
+"only wind casters in local maps","skyline","Transparents + VFX/Glass (forward)",0.0003
+"only wind casters in local maps","skyline","Transparents + VFX/Half-res depth (min/max)",0.0182
+"only wind casters in local maps","skyline","Transparents + VFX/Particles (half res)",0.0211
+"only wind casters in local maps","skyline","Transparents + VFX/Particle composite (upsample)",0.0420
+"only wind casters in local maps","skyline","Exposure",0.0289
+"only wind casters in local maps","skyline","Bloom",0.1214
+"only wind casters in local maps","skyline","Bloom/Bloom downsample",0.0916
+"only wind casters in local maps","skyline","Bloom/Bloom upsample",0.0298
+"only wind casters in local maps","skyline","Tone LUT bake",0.0000
+"only wind casters in local maps","skyline","Tone map",0.0909
+"only wind casters in local maps","skyline","Anti-aliasing",0.3296
+"only wind casters in local maps","skyline","Anti-aliasing/SMAA edges",0.0600
+"only wind casters in local maps","skyline","Anti-aliasing/SMAA weights",0.0859
+"only wind casters in local maps","skyline","Anti-aliasing/SMAA blend",0.1178
+"only wind casters in local maps","skyline","Anti-aliasing/Temporal resolve (2 frames)",0.0514
+"only wind casters in local maps","skyline","Motion blur",0.1586
+"only wind casters in local maps","skyline","Motion blur/Velocity pack + tile max",0.0626
+"only wind casters in local maps","skyline","Motion blur/Neighbor max",0.0033
+"only wind casters in local maps","skyline","Motion blur/Motion blur pass 1 (trailing)",0.0625
+"only wind casters in local maps","skyline","Motion blur/Motion blur pass 2 (separable)",0.0302
+"only wind casters in local maps","skyline","Final output + UI composite",0.0307
+"only wind casters in local maps","cafe_neon",GPU frame (mean),3.4215
+"only wind casters in local maps","cafe_neon",GPU frame (median),3.4445
+"only wind casters in local maps","cafe_neon",GPU frame (p95),3.7537
+"only wind casters in local maps","cafe_neon",CPU (mean),0.6667
+"only wind casters in local maps","cafe_neon","Sky LUTs",0.0000
+"only wind casters in local maps","cafe_neon","Shadows",0.7701
+"only wind casters in local maps","cafe_neon","Shadows/Cascade 0",0.0781
+"only wind casters in local maps","cafe_neon","Shadows/Cascade 1",0.1544
+"only wind casters in local maps","cafe_neon","Shadows/Cascade 2",0.0552
+"only wind casters in local maps","cafe_neon","Shadows/Cascade 3",0.0145
+"only wind casters in local maps","cafe_neon","Shadows/Local lights",0.4671
+"only wind casters in local maps","cafe_neon","Clears",0.0115
+"only wind casters in local maps","cafe_neon","Depth pre-pass",0.0465
+"only wind casters in local maps","cafe_neon","Base pass",0.2737
+"only wind casters in local maps","cafe_neon","Base pass/close alpha-tested",0.0065
+"only wind casters in local maps","cafe_neon","Base pass/opaque",0.0108
+"only wind casters in local maps","cafe_neon","Base pass/far alpha-tested",0.0536
+"only wind casters in local maps","cafe_neon","Base pass/pre-passed (EQUAL)",0.2026
+"only wind casters in local maps","cafe_neon","Decals",0.0002
+"only wind casters in local maps","cafe_neon","MSAA edge stencil",0.0564
+"only wind casters in local maps","cafe_neon","GTAO",0.4339
+"only wind casters in local maps","cafe_neon","GTAO/Linear depth",0.0180
+"only wind casters in local maps","cafe_neon","GTAO/Horizon search",0.3156
+"only wind casters in local maps","cafe_neon","GTAO/Denoise 4x4",0.0996
+"only wind casters in local maps","cafe_neon","Sun + ambient",0.5393
+"only wind casters in local maps","cafe_neon","Local lights",0.3504
+"only wind casters in local maps","cafe_neon","Subsurface scattering",0.0000
+"only wind casters in local maps","cafe_neon","Compose",0.1226
+"only wind casters in local maps","cafe_neon","Sky",0.0066
+"only wind casters in local maps","cafe_neon","Transparents + VFX",0.0717
+"only wind casters in local maps","cafe_neon","Transparents + VFX/Glass (forward)",0.0059
+"only wind casters in local maps","cafe_neon","Transparents + VFX/Half-res depth (min/max)",0.0194
+"only wind casters in local maps","cafe_neon","Transparents + VFX/Particles (half res)",0.0002
+"only wind casters in local maps","cafe_neon","Transparents + VFX/Particle composite (upsample)",0.0462
+"only wind casters in local maps","cafe_neon","Exposure",0.0291
+"only wind casters in local maps","cafe_neon","Bloom",0.1227
+"only wind casters in local maps","cafe_neon","Bloom/Bloom downsample",0.0936
+"only wind casters in local maps","cafe_neon","Bloom/Bloom upsample",0.0287
+"only wind casters in local maps","cafe_neon","Tone LUT bake",0.0000
+"only wind casters in local maps","cafe_neon","Tone map",0.0936
+"only wind casters in local maps","cafe_neon","Anti-aliasing",0.3356
+"only wind casters in local maps","cafe_neon","Anti-aliasing/SMAA edges",0.0607
+"only wind casters in local maps","cafe_neon","Anti-aliasing/SMAA weights",0.0921
+"only wind casters in local maps","cafe_neon","Anti-aliasing/SMAA blend",0.1181
+"only wind casters in local maps","cafe_neon","Anti-aliasing/Temporal resolve (2 frames)",0.0531
+"only wind casters in local maps","cafe_neon","Motion blur",0.1282
+"only wind casters in local maps","cafe_neon","Motion blur/Velocity pack + tile max",0.0631
+"only wind casters in local maps","cafe_neon","Motion blur/Neighbor max",0.0029
+"only wind casters in local maps","cafe_neon","Motion blur/Motion blur pass 1 (trailing)",0.0382
+"only wind casters in local maps","cafe_neon","Motion blur/Motion blur pass 2 (separable)",0.0241
+"only wind casters in local maps","cafe_neon","Final output + UI composite",0.0285
+"only wind casters in local maps","market",GPU frame (mean),4.3912
+"only wind casters in local maps","market",GPU frame (median),4.3579
+"only wind casters in local maps","market",GPU frame (p95),4.6537
+"only wind casters in local maps","market",CPU (mean),1.0836
+"only wind casters in local maps","market","Sky LUTs",0.0000
+"only wind casters in local maps","market","Shadows",1.2444
+"only wind casters in local maps","market","Shadows/Cascade 0",0.3030
+"only wind casters in local maps","market","Shadows/Cascade 1",0.3097
+"only wind casters in local maps","market","Shadows/Cascade 2",0.1475
+"only wind casters in local maps","market","Shadows/Cascade 3",0.0855
+"only wind casters in local maps","market","Shadows/Local lights",0.3980
+"only wind casters in local maps","market","Clears",0.0116
+"only wind casters in local maps","market","Depth pre-pass",0.0484
+"only wind casters in local maps","market","Base pass",0.4309
+"only wind casters in local maps","market","Base pass/close alpha-tested",0.1315
+"only wind casters in local maps","market","Base pass/opaque",0.0308
+"only wind casters in local maps","market","Base pass/far alpha-tested",0.0723
+"only wind casters in local maps","market","Base pass/pre-passed (EQUAL)",0.1961
+"only wind casters in local maps","market","Decals",0.0056
+"only wind casters in local maps","market","MSAA edge stencil",0.0513
+"only wind casters in local maps","market","GTAO",0.4104
+"only wind casters in local maps","market","GTAO/Linear depth",0.0191
+"only wind casters in local maps","market","GTAO/Horizon search",0.2891
+"only wind casters in local maps","market","GTAO/Denoise 4x4",0.1015
+"only wind casters in local maps","market","Sun + ambient",0.5825
+"only wind casters in local maps","market","Local lights",0.5284
+"only wind casters in local maps","market","Subsurface scattering",0.0214
+"only wind casters in local maps","market","Compose",0.1253
+"only wind casters in local maps","market","Sky",0.0076
+"only wind casters in local maps","market","Transparents + VFX",0.0703
+"only wind casters in local maps","market","Transparents + VFX/Glass (forward)",0.0011
+"only wind casters in local maps","market","Transparents + VFX/Half-res depth (min/max)",0.0190
+"only wind casters in local maps","market","Transparents + VFX/Particles (half res)",0.0022
+"only wind casters in local maps","market","Transparents + VFX/Particle composite (upsample)",0.0480
+"only wind casters in local maps","market","Exposure",0.0283
+"only wind casters in local maps","market","Bloom",0.1224
+"only wind casters in local maps","market","Bloom/Bloom downsample",0.0926
+"only wind casters in local maps","market","Bloom/Bloom upsample",0.0294
+"only wind casters in local maps","market","Tone LUT bake",0.0000
+"only wind casters in local maps","market","Tone map",0.0985
+"only wind casters in local maps","market","Anti-aliasing",0.4087
+"only wind casters in local maps","market","Anti-aliasing/SMAA edges",0.0661
+"only wind casters in local maps","market","Anti-aliasing/SMAA weights",0.1456
+"only wind casters in local maps","market","Anti-aliasing/SMAA blend",0.1209
+"only wind casters in local maps","market","Anti-aliasing/Temporal resolve (2 frames)",0.0639
+"only wind casters in local maps","market","Motion blur",0.1638
+"only wind casters in local maps","market","Motion blur/Velocity pack + tile max",0.0613
+"only wind casters in local maps","market","Motion blur/Neighbor max",0.0029
+"only wind casters in local maps","market","Motion blur/Motion blur pass 1 (trailing)",0.0618
+"only wind casters in local maps","market","Motion blur/Motion blur pass 2 (separable)",0.0378
+"only wind casters in local maps","market","Final output + UI composite",0.0309
+"only wind casters in local maps","camera path",GPU frame (mean),5.0129
+"only wind casters in local maps","camera path",GPU frame (median),4.1494
+"only wind casters in local maps","camera path",GPU frame (p95),8.3871
+"only wind casters in local maps","camera path",CPU (mean),1.1799
+"only wind casters in local maps","camera path","Sky LUTs",0.0000
+"only wind casters in local maps","camera path","Shadows",1.7793
+"only wind casters in local maps","camera path","Shadows/Cascade 0",0.2680
+"only wind casters in local maps","camera path","Shadows/Cascade 1",0.2534
+"only wind casters in local maps","camera path","Shadows/Cascade 2",0.1358
+"only wind casters in local maps","camera path","Shadows/Cascade 3",0.0762
+"only wind casters in local maps","camera path","Shadows/Local lights",1.0452
+"only wind casters in local maps","camera path","Clears",0.0119
+"only wind casters in local maps","camera path","Depth pre-pass",0.0400
+"only wind casters in local maps","camera path","Base pass",0.7680
+"only wind casters in local maps","camera path","Base pass/close alpha-tested",0.3989
+"only wind casters in local maps","camera path","Base pass/opaque",0.0311
+"only wind casters in local maps","camera path","Base pass/far alpha-tested",0.1817
+"only wind casters in local maps","camera path","Base pass/pre-passed (EQUAL)",0.1562
+"only wind casters in local maps","camera path","Decals",0.0036
+"only wind casters in local maps","camera path","MSAA edge stencil",0.0518
+"only wind casters in local maps","camera path","GTAO",0.3948
+"only wind casters in local maps","camera path","GTAO/Linear depth",0.0195
+"only wind casters in local maps","camera path","GTAO/Horizon search",0.2806
+"only wind casters in local maps","camera path","GTAO/Denoise 4x4",0.0941
+"only wind casters in local maps","camera path","Sun + ambient",0.5192
+"only wind casters in local maps","camera path","Local lights",0.4045
+"only wind casters in local maps","camera path","Subsurface scattering",0.0096
+"only wind casters in local maps","camera path","Compose",0.1240
+"only wind casters in local maps","camera path","Sky",0.0076
+"only wind casters in local maps","camera path","Transparents + VFX",0.0790
+"only wind casters in local maps","camera path","Transparents + VFX/Glass (forward)",0.0015
+"only wind casters in local maps","camera path","Transparents + VFX/Half-res depth (min/max)",0.0197
+"only wind casters in local maps","camera path","Transparents + VFX/Particles (half res)",0.0104
+"only wind casters in local maps","camera path","Transparents + VFX/Particle composite (upsample)",0.0474
+"only wind casters in local maps","camera path","Exposure",0.0325
+"only wind casters in local maps","camera path","Bloom",0.1220
+"only wind casters in local maps","camera path","Bloom/Bloom downsample",0.0931
+"only wind casters in local maps","camera path","Bloom/Bloom upsample",0.0286
+"only wind casters in local maps","camera path","Tone LUT bake",0.0000
+"only wind casters in local maps","camera path","Tone map",0.0930
+"only wind casters in local maps","camera path","Anti-aliasing",0.3408
+"only wind casters in local maps","camera path","Anti-aliasing/SMAA edges",0.0643
+"only wind casters in local maps","camera path","Anti-aliasing/SMAA weights",0.1023
+"only wind casters in local maps","camera path","Anti-aliasing/SMAA blend",0.1161
+"only wind casters in local maps","camera path","Anti-aliasing/Temporal resolve (2 frames)",0.0464
+"only wind casters in local maps","camera path","Motion blur",0.1997
+"only wind casters in local maps","camera path","Motion blur/Velocity pack + tile max",0.0621
+"only wind casters in local maps","camera path","Motion blur/Neighbor max",0.0029
+"only wind casters in local maps","camera path","Motion blur/Motion blur pass 1 (trailing)",0.0903
+"only wind casters in local maps","camera path","Motion blur/Motion blur pass 2 (separable)",0.0445
+"only wind casters in local maps","camera path","Final output + UI composite",0.0306
+"default (repeat)","square_overview",GPU frame (mean),6.2372
+"default (repeat)","square_overview",GPU frame (median),6.1684
+"default (repeat)","square_overview",GPU frame (p95),6.4741
+"default (repeat)","square_overview",CPU (mean),2.2110
+"default (repeat)","square_overview","Sky LUTs",0.0000
+"default (repeat)","square_overview","Shadows",2.0677
+"default (repeat)","square_overview","Shadows/Cascade 0",0.1024
+"default (repeat)","square_overview","Shadows/Cascade 1",0.2116
+"default (repeat)","square_overview","Shadows/Cascade 2",0.2060
+"default (repeat)","square_overview","Shadows/Cascade 3",0.1270
+"default (repeat)","square_overview","Shadows/Local lights",1.4198
+"default (repeat)","square_overview","Clears",0.0133
+"default (repeat)","square_overview","Depth pre-pass",0.0443
+"default (repeat)","square_overview","Base pass",1.2497
+"default (repeat)","square_overview","Base pass/opaque",0.0712
+"default (repeat)","square_overview","Base pass/far alpha-tested",1.0647
+"default (repeat)","square_overview","Base pass/pre-passed (EQUAL)",0.1136
+"default (repeat)","square_overview","Decals",0.0042
+"default (repeat)","square_overview","MSAA edge stencil",0.0554
+"default (repeat)","square_overview","GTAO",0.4084
+"default (repeat)","square_overview","GTAO/Linear depth",0.0249
+"default (repeat)","square_overview","GTAO/Horizon search",0.2499
+"default (repeat)","square_overview","GTAO/Denoise 4x4",0.1298
+"default (repeat)","square_overview","Sun + ambient",0.6066
+"default (repeat)","square_overview","Local lights",0.6170
+"default (repeat)","square_overview","Subsurface scattering",0.0203
+"default (repeat)","square_overview","Compose",0.1397
+"default (repeat)","square_overview","Sky",0.0071
+"default (repeat)","square_overview","Transparents + VFX",0.0802
+"default (repeat)","square_overview","Transparents + VFX/Glass (forward)",0.0020
+"default (repeat)","square_overview","Transparents + VFX/Half-res depth (min/max)",0.0184
+"default (repeat)","square_overview","Transparents + VFX/Particles (half res)",0.0086
+"default (repeat)","square_overview","Transparents + VFX/Particle composite (upsample)",0.0511
+"default (repeat)","square_overview","Exposure",0.0311
+"default (repeat)","square_overview","Bloom",0.1214
+"default (repeat)","square_overview","Bloom/Bloom downsample",0.0928
+"default (repeat)","square_overview","Bloom/Bloom upsample",0.0286
+"default (repeat)","square_overview","Tone LUT bake",0.0000
+"default (repeat)","square_overview","Tone map",0.1067
+"default (repeat)","square_overview","Anti-aliasing",0.4318
+"default (repeat)","square_overview","Anti-aliasing/SMAA edges",0.0691
+"default (repeat)","square_overview","Anti-aliasing/SMAA weights",0.1510
+"default (repeat)","square_overview","Anti-aliasing/SMAA blend",0.1255
+"default (repeat)","square_overview","Anti-aliasing/Temporal resolve (2 frames)",0.0726
+"default (repeat)","square_overview","Motion blur",0.2008
+"default (repeat)","square_overview","Motion blur/Velocity pack + tile max",0.0686
+"default (repeat)","square_overview","Motion blur/Neighbor max",0.0029
+"default (repeat)","square_overview","Motion blur/Motion blur pass 1 (trailing)",0.0822
+"default (repeat)","square_overview","Motion blur/Motion blur pass 2 (separable)",0.0471
+"default (repeat)","square_overview","Final output + UI composite",0.0305
+"default (repeat)","foliage_dense",GPU frame (mean),7.0805
+"default (repeat)","foliage_dense",GPU frame (median),7.0855
+"default (repeat)","foliage_dense",GPU frame (p95),7.3667
+"default (repeat)","foliage_dense",CPU (mean),1.3148
+"default (repeat)","foliage_dense","Sky LUTs",0.0000
+"default (repeat)","foliage_dense","Shadows",2.7216
+"default (repeat)","foliage_dense","Shadows/Cascade 0",0.4743
+"default (repeat)","foliage_dense","Shadows/Cascade 1",0.4158
+"default (repeat)","foliage_dense","Shadows/Cascade 2",0.1672
+"default (repeat)","foliage_dense","Shadows/Cascade 3",0.0821
+"default (repeat)","foliage_dense","Shadows/Local lights",1.5814
+"default (repeat)","foliage_dense","Clears",0.0125
+"default (repeat)","foliage_dense","Depth pre-pass",0.0518
+"default (repeat)","foliage_dense","Base pass",1.8895
+"default (repeat)","foliage_dense","Base pass/close alpha-tested",1.5812
+"default (repeat)","foliage_dense","Base pass/opaque",0.0215
+"default (repeat)","foliage_dense","Base pass/far alpha-tested",0.2014
+"default (repeat)","foliage_dense","Base pass/pre-passed (EQUAL)",0.0853
+"default (repeat)","foliage_dense","Decals",0.0014
+"default (repeat)","foliage_dense","MSAA edge stencil",0.0566
+"default (repeat)","foliage_dense","GTAO",0.4113
+"default (repeat)","foliage_dense","GTAO/Linear depth",0.0220
+"default (repeat)","foliage_dense","GTAO/Horizon search",0.2873
+"default (repeat)","foliage_dense","GTAO/Denoise 4x4",0.1014
+"default (repeat)","foliage_dense","Sun + ambient",0.5073
+"default (repeat)","foliage_dense","Local lights",0.3168
+"default (repeat)","foliage_dense","Subsurface scattering",0.0000
+"default (repeat)","foliage_dense","Compose",0.1314
+"default (repeat)","foliage_dense","Sky",0.0080
+"default (repeat)","foliage_dense","Transparents + VFX",0.0743
+"default (repeat)","foliage_dense","Transparents + VFX/Glass (forward)",0.0008
+"default (repeat)","foliage_dense","Transparents + VFX/Half-res depth (min/max)",0.0196
+"default (repeat)","foliage_dense","Transparents + VFX/Particles (half res)",0.0048
+"default (repeat)","foliage_dense","Transparents + VFX/Particle composite (upsample)",0.0490
+"default (repeat)","foliage_dense","Exposure",0.0306
+"default (repeat)","foliage_dense","Bloom",0.1232
+"default (repeat)","foliage_dense","Bloom/Bloom downsample",0.0941
+"default (repeat)","foliage_dense","Bloom/Bloom upsample",0.0287
+"default (repeat)","foliage_dense","Tone LUT bake",0.0000
+"default (repeat)","foliage_dense","Tone map",0.1040
+"default (repeat)","foliage_dense","Anti-aliasing",0.3852
+"default (repeat)","foliage_dense","Anti-aliasing/SMAA edges",0.0639
+"default (repeat)","foliage_dense","Anti-aliasing/SMAA weights",0.1187
+"default (repeat)","foliage_dense","Anti-aliasing/SMAA blend",0.1251
+"default (repeat)","foliage_dense","Anti-aliasing/Temporal resolve (2 frames)",0.0657
+"default (repeat)","foliage_dense","Motion blur",0.2233
+"default (repeat)","foliage_dense","Motion blur/Velocity pack + tile max",0.0691
+"default (repeat)","foliage_dense","Motion blur/Neighbor max",0.0029
+"default (repeat)","foliage_dense","Motion blur/Motion blur pass 1 (trailing)",0.1008
+"default (repeat)","foliage_dense","Motion blur/Motion blur pass 2 (separable)",0.0505
+"default (repeat)","foliage_dense","Final output + UI composite",0.0310
+"default (repeat)","busts_closeup",GPU frame (mean),3.8591
+"default (repeat)","busts_closeup",GPU frame (median),3.8004
+"default (repeat)","busts_closeup",GPU frame (p95),4.1237
+"default (repeat)","busts_closeup",CPU (mean),0.9587
+"default (repeat)","busts_closeup","Sky LUTs",0.0000
+"default (repeat)","busts_closeup","Shadows",0.9150
+"default (repeat)","busts_closeup","Shadows/Cascade 0",0.1488
+"default (repeat)","busts_closeup","Shadows/Cascade 1",0.2878
+"default (repeat)","busts_closeup","Shadows/Cascade 2",0.2301
+"default (repeat)","busts_closeup","Shadows/Cascade 3",0.1303
+"default (repeat)","busts_closeup","Shadows/Local lights",0.1173
+"default (repeat)","busts_closeup","Clears",0.0118
+"default (repeat)","busts_closeup","Depth pre-pass",0.0555
+"default (repeat)","busts_closeup","Base pass",0.3703
+"default (repeat)","busts_closeup","Base pass/close alpha-tested",0.0040
+"default (repeat)","busts_closeup","Base pass/opaque",0.0247
+"default (repeat)","busts_closeup","Base pass/far alpha-tested",0.1164
+"default (repeat)","busts_closeup","Base pass/pre-passed (EQUAL)",0.2250
+"default (repeat)","busts_closeup","Decals",0.0040
+"default (repeat)","busts_closeup","MSAA edge stencil",0.0569
+"default (repeat)","busts_closeup","GTAO",0.4265
+"default (repeat)","busts_closeup","GTAO/Linear depth",0.0185
+"default (repeat)","busts_closeup","GTAO/Horizon search",0.3044
+"default (repeat)","busts_closeup","GTAO/Denoise 4x4",0.1030
+"default (repeat)","busts_closeup","Sun + ambient",0.5325
+"default (repeat)","busts_closeup","Local lights",0.4812
+"default (repeat)","busts_closeup","Subsurface scattering",0.0250
+"default (repeat)","busts_closeup","Compose",0.1244
+"default (repeat)","busts_closeup","Sky",0.0063
+"default (repeat)","busts_closeup","Transparents + VFX",0.0671
+"default (repeat)","busts_closeup","Transparents + VFX/Glass (forward)",0.0014
+"default (repeat)","busts_closeup","Transparents + VFX/Half-res depth (min/max)",0.0189
+"default (repeat)","busts_closeup","Transparents + VFX/Particles (half res)",0.0002
+"default (repeat)","busts_closeup","Transparents + VFX/Particle composite (upsample)",0.0466
+"default (repeat)","busts_closeup","Exposure",0.0289
+"default (repeat)","busts_closeup","Bloom",0.1213
+"default (repeat)","busts_closeup","Bloom/Bloom downsample",0.0924
+"default (repeat)","busts_closeup","Bloom/Bloom upsample",0.0286
+"default (repeat)","busts_closeup","Tone LUT bake",0.0000
+"default (repeat)","busts_closeup","Tone map",0.0935
+"default (repeat)","busts_closeup","Anti-aliasing",0.3726
+"default (repeat)","busts_closeup","Anti-aliasing/SMAA edges",0.0627
+"default (repeat)","busts_closeup","Anti-aliasing/SMAA weights",0.1200
+"default (repeat)","busts_closeup","Anti-aliasing/SMAA blend",0.1225
+"default (repeat)","busts_closeup","Anti-aliasing/Temporal resolve (2 frames)",0.0560
+"default (repeat)","busts_closeup","Motion blur",0.1369
+"default (repeat)","busts_closeup","Motion blur/Velocity pack + tile max",0.0626
+"default (repeat)","busts_closeup","Motion blur/Neighbor max",0.0029
+"default (repeat)","busts_closeup","Motion blur/Motion blur pass 1 (trailing)",0.0435
+"default (repeat)","busts_closeup","Motion blur/Motion blur pass 2 (separable)",0.0279
+"default (repeat)","busts_closeup","Final output + UI composite",0.0287
+"default (repeat)","lamps",GPU frame (mean),3.4546
+"default (repeat)","lamps",GPU frame (median),3.3956
+"default (repeat)","lamps",GPU frame (p95),3.6683
+"default (repeat)","lamps",CPU (mean),1.1431
+"default (repeat)","lamps","Sky LUTs",0.0000
+"default (repeat)","lamps","Shadows",0.7720
+"default (repeat)","lamps","Shadows/Cascade 0",0.1103
+"default (repeat)","lamps","Shadows/Cascade 1",0.1027
+"default (repeat)","lamps","Shadows/Cascade 2",0.0564
+"default (repeat)","lamps","Shadows/Cascade 3",0.0310
+"default (repeat)","lamps","Shadows/Local lights",0.4708
+"default (repeat)","lamps","Clears",0.0120
+"default (repeat)","lamps","Depth pre-pass",0.0388
+"default (repeat)","lamps","Base pass",0.5288
+"default (repeat)","lamps","Base pass/close alpha-tested",0.0164
+"default (repeat)","lamps","Base pass/opaque",0.0239
+"default (repeat)","lamps","Base pass/far alpha-tested",0.3316
+"default (repeat)","lamps","Base pass/pre-passed (EQUAL)",0.1566
+"default (repeat)","lamps","Decals",0.0044
+"default (repeat)","lamps","MSAA edge stencil",0.0484
+"default (repeat)","lamps","GTAO",0.3671
+"default (repeat)","lamps","GTAO/Linear depth",0.0191
+"default (repeat)","lamps","GTAO/Horizon search",0.2575
+"default (repeat)","lamps","GTAO/Denoise 4x4",0.0898
+"default (repeat)","lamps","Sun + ambient",0.4492
+"default (repeat)","lamps","Local lights",0.2497
+"default (repeat)","lamps","Subsurface scattering",0.0000
+"default (repeat)","lamps","Compose",0.1187
+"default (repeat)","lamps","Sky",0.0070
+"default (repeat)","lamps","Transparents + VFX",0.0995
+"default (repeat)","lamps","Transparents + VFX/Glass (forward)",0.0011
+"default (repeat)","lamps","Transparents + VFX/Half-res depth (min/max)",0.0194
+"default (repeat)","lamps","Transparents + VFX/Particles (half res)",0.0337
+"default (repeat)","lamps","Transparents + VFX/Particle composite (upsample)",0.0453
+"default (repeat)","lamps","Exposure",0.0288
+"default (repeat)","lamps","Bloom",0.1215
+"default (repeat)","lamps","Bloom/Bloom downsample",0.0925
+"default (repeat)","lamps","Bloom/Bloom upsample",0.0286
+"default (repeat)","lamps","Tone LUT bake",0.0000
+"default (repeat)","lamps","Tone map",0.0903
+"default (repeat)","lamps","Anti-aliasing",0.3323
+"default (repeat)","lamps","Anti-aliasing/SMAA edges",0.0608
+"default (repeat)","lamps","Anti-aliasing/SMAA weights",0.0909
+"default (repeat)","lamps","Anti-aliasing/SMAA blend",0.1170
+"default (repeat)","lamps","Anti-aliasing/Temporal resolve (2 frames)",0.0529
+"default (repeat)","lamps","Motion blur",0.1563
+"default (repeat)","lamps","Motion blur/Velocity pack + tile max",0.0629
+"default (repeat)","lamps","Motion blur/Neighbor max",0.0029
+"default (repeat)","lamps","Motion blur/Motion blur pass 1 (trailing)",0.0598
+"default (repeat)","lamps","Motion blur/Motion blur pass 2 (separable)",0.0307
+"default (repeat)","lamps","Final output + UI composite",0.0293
+"default (repeat)","arcade",GPU frame (mean),2.5483
+"default (repeat)","arcade",GPU frame (median),2.5009
+"default (repeat)","arcade",GPU frame (p95),2.7567
+"default (repeat)","arcade",CPU (mean),0.3183
+"default (repeat)","arcade","Sky LUTs",0.0000
+"default (repeat)","arcade","Shadows",0.3169
+"default (repeat)","arcade","Shadows/Cascade 0",0.0573
+"default (repeat)","arcade","Shadows/Cascade 1",0.1529
+"default (repeat)","arcade","Shadows/Cascade 2",0.0459
+"default (repeat)","arcade","Shadows/Cascade 3",0.0144
+"default (repeat)","arcade","Shadows/Local lights",0.0457
+"default (repeat)","arcade","Clears",0.0116
+"default (repeat)","arcade","Depth pre-pass",0.0252
+"default (repeat)","arcade","Base pass",0.1826
+"default (repeat)","arcade","Base pass/close alpha-tested",0.0005
+"default (repeat)","arcade","Base pass/opaque",0.0023
+"default (repeat)","arcade","Base pass/far alpha-tested",0.0399
+"default (repeat)","arcade","Base pass/pre-passed (EQUAL)",0.1397
+"default (repeat)","arcade","Decals",0.0037
+"default (repeat)","arcade","MSAA edge stencil",0.0505
+"default (repeat)","arcade","GTAO",0.4363
+"default (repeat)","arcade","GTAO/Linear depth",0.0178
+"default (repeat)","arcade","GTAO/Horizon search",0.3170
+"default (repeat)","arcade","GTAO/Denoise 4x4",0.1009
+"default (repeat)","arcade","Sun + ambient",0.4757
+"default (repeat)","arcade","Local lights",0.2230
+"default (repeat)","arcade","Subsurface scattering",0.0000
+"default (repeat)","arcade","Compose",0.1040
+"default (repeat)","arcade","Sky",0.0076
+"default (repeat)","arcade","Transparents + VFX",0.0645
+"default (repeat)","arcade","Transparents + VFX/Glass (forward)",0.0022
+"default (repeat)","arcade","Transparents + VFX/Half-res depth (min/max)",0.0202
+"default (repeat)","arcade","Transparents + VFX/Particles (half res)",0.0002
+"default (repeat)","arcade","Transparents + VFX/Particle composite (upsample)",0.0419
+"default (repeat)","arcade","Exposure",0.0280
+"default (repeat)","arcade","Bloom",0.1227
+"default (repeat)","arcade","Bloom/Bloom downsample",0.0938
+"default (repeat)","arcade","Bloom/Bloom upsample",0.0288
+"default (repeat)","arcade","Tone LUT bake",0.0000
+"default (repeat)","arcade","Tone map",0.0847
+"default (repeat)","arcade","Anti-aliasing",0.2603
+"default (repeat)","arcade","Anti-aliasing/SMAA edges",0.0557
+"default (repeat)","arcade","Anti-aliasing/SMAA weights",0.0393
+"default (repeat)","arcade","Anti-aliasing/SMAA blend",0.1100
+"default (repeat)","arcade","Anti-aliasing/Temporal resolve (2 frames)",0.0429
+"default (repeat)","arcade","Motion blur",0.1214
+"default (repeat)","arcade","Motion blur/Velocity pack + tile max",0.0618
+"default (repeat)","arcade","Motion blur/Neighbor max",0.0029
+"default (repeat)","arcade","Motion blur/Motion blur pass 1 (trailing)",0.0347
+"default (repeat)","arcade","Motion blur/Motion blur pass 2 (separable)",0.0221
+"default (repeat)","arcade","Final output + UI composite",0.0286
+"default (repeat)","skyline",GPU frame (mean),4.9236
+"default (repeat)","skyline",GPU frame (median),4.8615
+"default (repeat)","skyline",GPU frame (p95),5.1717
+"default (repeat)","skyline",CPU (mean),1.6876
+"default (repeat)","skyline","Sky LUTs",0.0000
+"default (repeat)","skyline","Shadows",1.7568
+"default (repeat)","skyline","Shadows/Cascade 0",0.1352
+"default (repeat)","skyline","Shadows/Cascade 1",0.1983
+"default (repeat)","skyline","Shadows/Cascade 2",0.1484
+"default (repeat)","skyline","Shadows/Cascade 3",0.0552
+"default (repeat)","skyline","Shadows/Local lights",1.2189
+"default (repeat)","skyline","Clears",0.0123
+"default (repeat)","skyline","Depth pre-pass",0.0401
+"default (repeat)","skyline","Base pass",0.8148
+"default (repeat)","skyline","Base pass/close alpha-tested",0.0000
+"default (repeat)","skyline","Base pass/opaque",0.0689
+"default (repeat)","skyline","Base pass/far alpha-tested",0.6448
+"default (repeat)","skyline","Base pass/pre-passed (EQUAL)",0.1009
+"default (repeat)","skyline","Decals",0.0037
+"default (repeat)","skyline","MSAA edge stencil",0.0393
+"default (repeat)","skyline","GTAO",0.2432
+"default (repeat)","skyline","GTAO/Linear depth",0.0174
+"default (repeat)","skyline","GTAO/Horizon search",0.1627
+"default (repeat)","skyline","GTAO/Denoise 4x4",0.0624
+"default (repeat)","skyline","Sun + ambient",0.3614
+"default (repeat)","skyline","Local lights",0.6535
+"default (repeat)","skyline","Subsurface scattering",0.0260
+"default (repeat)","skyline","Compose",0.1208
+"default (repeat)","skyline","Sky",0.0156
+"default (repeat)","skyline","Transparents + VFX",0.0807
+"default (repeat)","skyline","Transparents + VFX/Glass (forward)",0.0003
+"default (repeat)","skyline","Transparents + VFX/Half-res depth (min/max)",0.0175
+"default (repeat)","skyline","Transparents + VFX/Particles (half res)",0.0212
+"default (repeat)","skyline","Transparents + VFX/Particle composite (upsample)",0.0417
+"default (repeat)","skyline","Exposure",0.0289
+"default (repeat)","skyline","Bloom",0.1214
+"default (repeat)","skyline","Bloom/Bloom downsample",0.0928
+"default (repeat)","skyline","Bloom/Bloom upsample",0.0286
+"default (repeat)","skyline","Tone LUT bake",0.0000
+"default (repeat)","skyline","Tone map",0.0920
+"default (repeat)","skyline","Anti-aliasing",0.3248
+"default (repeat)","skyline","Anti-aliasing/SMAA edges",0.0591
+"default (repeat)","skyline","Anti-aliasing/SMAA weights",0.0872
+"default (repeat)","skyline","Anti-aliasing/SMAA blend",0.1158
+"default (repeat)","skyline","Anti-aliasing/Temporal resolve (2 frames)",0.0525
+"default (repeat)","skyline","Motion blur",0.1587
+"default (repeat)","skyline","Motion blur/Velocity pack + tile max",0.0604
+"default (repeat)","skyline","Motion blur/Neighbor max",0.0028
+"default (repeat)","skyline","Motion blur/Motion blur pass 1 (trailing)",0.0644
+"default (repeat)","skyline","Motion blur/Motion blur pass 2 (separable)",0.0310
+"default (repeat)","skyline","Final output + UI composite",0.0290
+"default (repeat)","cafe_neon",GPU frame (mean),3.3512
+"default (repeat)","cafe_neon",GPU frame (median),3.3614
+"default (repeat)","cafe_neon",GPU frame (p95),3.6492
+"default (repeat)","cafe_neon",CPU (mean),0.6928
+"default (repeat)","cafe_neon","Sky LUTs",0.0000
+"default (repeat)","cafe_neon","Shadows",0.6818
+"default (repeat)","cafe_neon","Shadows/Cascade 0",0.0785
+"default (repeat)","cafe_neon","Shadows/Cascade 1",0.1574
+"default (repeat)","cafe_neon","Shadows/Cascade 2",0.0542
+"default (repeat)","cafe_neon","Shadows/Cascade 3",0.0145
+"default (repeat)","cafe_neon","Shadows/Local lights",0.3765
+"default (repeat)","cafe_neon","Clears",0.0116
+"default (repeat)","cafe_neon","Depth pre-pass",0.0472
+"default (repeat)","cafe_neon","Base pass",0.2692
+"default (repeat)","cafe_neon","Base pass/close alpha-tested",0.0067
+"default (repeat)","cafe_neon","Base pass/opaque",0.0109
+"default (repeat)","cafe_neon","Base pass/far alpha-tested",0.0498
+"default (repeat)","cafe_neon","Base pass/pre-passed (EQUAL)",0.2015
+"default (repeat)","cafe_neon","Decals",0.0002
+"default (repeat)","cafe_neon","MSAA edge stencil",0.0571
+"default (repeat)","cafe_neon","GTAO",0.4405
+"default (repeat)","cafe_neon","GTAO/Linear depth",0.0183
+"default (repeat)","cafe_neon","GTAO/Horizon search",0.3175
+"default (repeat)","cafe_neon","GTAO/Denoise 4x4",0.1041
+"default (repeat)","cafe_neon","Sun + ambient",0.5471
+"default (repeat)","cafe_neon","Local lights",0.3542
+"default (repeat)","cafe_neon","Subsurface scattering",0.0000
+"default (repeat)","cafe_neon","Compose",0.1233
+"default (repeat)","cafe_neon","Sky",0.0067
+"default (repeat)","cafe_neon","Transparents + VFX",0.0728
+"default (repeat)","cafe_neon","Transparents + VFX/Glass (forward)",0.0060
+"default (repeat)","cafe_neon","Transparents + VFX/Half-res depth (min/max)",0.0196
+"default (repeat)","cafe_neon","Transparents + VFX/Particles (half res)",0.0002
+"default (repeat)","cafe_neon","Transparents + VFX/Particle composite (upsample)",0.0469
+"default (repeat)","cafe_neon","Exposure",0.0296
+"default (repeat)","cafe_neon","Bloom",0.1252
+"default (repeat)","cafe_neon","Bloom/Bloom downsample",0.0951
+"default (repeat)","cafe_neon","Bloom/Bloom upsample",0.0297
+"default (repeat)","cafe_neon","Tone LUT bake",0.0000
+"default (repeat)","cafe_neon","Tone map",0.0918
+"default (repeat)","cafe_neon","Anti-aliasing",0.3344
+"default (repeat)","cafe_neon","Anti-aliasing/SMAA edges",0.0608
+"default (repeat)","cafe_neon","Anti-aliasing/SMAA weights",0.0915
+"default (repeat)","cafe_neon","Anti-aliasing/SMAA blend",0.1168
+"default (repeat)","cafe_neon","Anti-aliasing/Temporal resolve (2 frames)",0.0536
+"default (repeat)","cafe_neon","Motion blur",0.1281
+"default (repeat)","cafe_neon","Motion blur/Velocity pack + tile max",0.0630
+"default (repeat)","cafe_neon","Motion blur/Neighbor max",0.0037
+"default (repeat)","cafe_neon","Motion blur/Motion blur pass 1 (trailing)",0.0373
+"default (repeat)","cafe_neon","Motion blur/Motion blur pass 2 (separable)",0.0241
+"default (repeat)","cafe_neon","Final output + UI composite",0.0297
+"default (repeat)","market",GPU frame (mean),4.2806
+"default (repeat)","market",GPU frame (median),4.2265
+"default (repeat)","market",GPU frame (p95),4.5378
+"default (repeat)","market",CPU (mean),1.1536
+"default (repeat)","market","Sky LUTs",0.0000
+"default (repeat)","market","Shadows",1.1533
+"default (repeat)","market","Shadows/Cascade 0",0.3063
+"default (repeat)","market","Shadows/Cascade 1",0.3073
+"default (repeat)","market","Shadows/Cascade 2",0.1487
+"default (repeat)","market","Shadows/Cascade 3",0.0877
+"default (repeat)","market","Shadows/Local lights",0.3025
+"default (repeat)","market","Clears",0.0119
+"default (repeat)","market","Depth pre-pass",0.0505
+"default (repeat)","market","Base pass",0.4362
+"default (repeat)","market","Base pass/close alpha-tested",0.1342
+"default (repeat)","market","Base pass/opaque",0.0312
+"default (repeat)","market","Base pass/far alpha-tested",0.0728
+"default (repeat)","market","Base pass/pre-passed (EQUAL)",0.1978
+"default (repeat)","market","Decals",0.0065
+"default (repeat)","market","MSAA edge stencil",0.0517
+"default (repeat)","market","GTAO",0.4128
+"default (repeat)","market","GTAO/Linear depth",0.0193
+"default (repeat)","market","GTAO/Horizon search",0.2900
+"default (repeat)","market","GTAO/Denoise 4x4",0.1028
+"default (repeat)","market","Sun + ambient",0.5456
+"default (repeat)","market","Local lights",0.5228
+"default (repeat)","market","Subsurface scattering",0.0214
+"default (repeat)","market","Compose",0.1244
+"default (repeat)","market","Sky",0.0080
+"default (repeat)","market","Transparents + VFX",0.0698
+"default (repeat)","market","Transparents + VFX/Glass (forward)",0.0011
+"default (repeat)","market","Transparents + VFX/Half-res depth (min/max)",0.0183
+"default (repeat)","market","Transparents + VFX/Particles (half res)",0.0022
+"default (repeat)","market","Transparents + VFX/Particle composite (upsample)",0.0482
+"default (repeat)","market","Exposure",0.0283
+"default (repeat)","market","Bloom",0.1245
+"default (repeat)","market","Bloom/Bloom downsample",0.0954
+"default (repeat)","market","Bloom/Bloom upsample",0.0288
+"default (repeat)","market","Tone LUT bake",0.0000
+"default (repeat)","market","Tone map",0.0986
+"default (repeat)","market","Anti-aliasing",0.4186
+"default (repeat)","market","Anti-aliasing/SMAA edges",0.0676
+"default (repeat)","market","Anti-aliasing/SMAA weights",0.1512
+"default (repeat)","market","Anti-aliasing/SMAA blend",0.1233
+"default (repeat)","market","Anti-aliasing/Temporal resolve (2 frames)",0.0653
+"default (repeat)","market","Motion blur",0.1658
+"default (repeat)","market","Motion blur/Velocity pack + tile max",0.0609
+"default (repeat)","market","Motion blur/Neighbor max",0.0036
+"default (repeat)","market","Motion blur/Motion blur pass 1 (trailing)",0.0620
+"default (repeat)","market","Motion blur/Motion blur pass 2 (separable)",0.0392
+"default (repeat)","market","Final output + UI composite",0.0294
+"default (repeat)","camera path",GPU frame (mean),4.7984
+"default (repeat)","camera path",GPU frame (median),3.9663
+"default (repeat)","camera path",GPU frame (p95),7.8025
+"default (repeat)","camera path",CPU (mean),1.2362
+"default (repeat)","camera path","Sky LUTs",0.0000
+"default (repeat)","camera path","Shadows",1.5472
+"default (repeat)","camera path","Shadows/Cascade 0",0.2726
+"default (repeat)","camera path","Shadows/Cascade 1",0.2524
+"default (repeat)","camera path","Shadows/Cascade 2",0.1330
+"default (repeat)","camera path","Shadows/Cascade 3",0.0768
+"default (repeat)","camera path","Shadows/Local lights",0.8117
+"default (repeat)","camera path","Clears",0.0120
+"default (repeat)","camera path","Depth pre-pass",0.0402
+"default (repeat)","camera path","Base pass",0.7730
+"default (repeat)","camera path","Base pass/close alpha-tested",0.4019
+"default (repeat)","camera path","Base pass/opaque",0.0325
+"default (repeat)","camera path","Base pass/far alpha-tested",0.1806
+"default (repeat)","camera path","Base pass/pre-passed (EQUAL)",0.1579
+"default (repeat)","camera path","Decals",0.0036
+"default (repeat)","camera path","MSAA edge stencil",0.0535
+"default (repeat)","camera path","GTAO",0.4003
+"default (repeat)","camera path","GTAO/Linear depth",0.0205
+"default (repeat)","camera path","GTAO/Horizon search",0.2828
+"default (repeat)","camera path","GTAO/Denoise 4x4",0.0963
+"default (repeat)","camera path","Sun + ambient",0.5206
+"default (repeat)","camera path","Local lights",0.4058
+"default (repeat)","camera path","Subsurface scattering",0.0097
+"default (repeat)","camera path","Compose",0.1260
+"default (repeat)","camera path","Sky",0.0086
+"default (repeat)","camera path","Transparents + VFX",0.0816
+"default (repeat)","camera path","Transparents + VFX/Glass (forward)",0.0016
+"default (repeat)","camera path","Transparents + VFX/Half-res depth (min/max)",0.0201
+"default (repeat)","camera path","Transparents + VFX/Particles (half res)",0.0105
+"default (repeat)","camera path","Transparents + VFX/Particle composite (upsample)",0.0494
+"default (repeat)","camera path","Exposure",0.0302
+"default (repeat)","camera path","Bloom",0.1227
+"default (repeat)","camera path","Bloom/Bloom downsample",0.0937
+"default (repeat)","camera path","Bloom/Bloom upsample",0.0287
+"default (repeat)","camera path","Tone LUT bake",0.0000
+"default (repeat)","camera path","Tone map",0.0914
+"default (repeat)","camera path","Anti-aliasing",0.3435
+"default (repeat)","camera path","Anti-aliasing/SMAA edges",0.0624
+"default (repeat)","camera path","Anti-aliasing/SMAA weights",0.1046
+"default (repeat)","camera path","Anti-aliasing/SMAA blend",0.1172
+"default (repeat)","camera path","Anti-aliasing/Temporal resolve (2 frames)",0.0475
+"default (repeat)","camera path","Motion blur",0.1972
+"default (repeat)","camera path","Motion blur/Velocity pack + tile max",0.0623
+"default (repeat)","camera path","Motion blur/Neighbor max",0.0029
+"default (repeat)","camera path","Motion blur/Motion blur pass 1 (trailing)",0.0874
+"default (repeat)","camera path","Motion blur/Motion blur pass 2 (separable)",0.0446
+"default (repeat)","camera path","Final output + UI composite",0.0306

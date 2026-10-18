@@ -1,0 +1,14 @@
+build/
+screenshots/
+*.log
+__pycache__/
+.vs/
+*.user
+assets/source_textures/
+bench/raw/
+bench/exploratory/
+.mcp-servers/
+assets/scene/dds/
+.claude/worktrees/
+.tools/texconv/
+assets/blender/*.blend1

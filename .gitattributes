@@ -1,0 +1,13 @@
+# Text is stored with LF endings and checked out with the platform's native endings, so edits made
+# with different tools don't turn whole files into line-ending diffs.
+* text=auto
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+*.blend binary
+*.bin binary
+*.png binary
+*.jpg binary
+*.dds binary
+*.exr binary
+*.hdr binary

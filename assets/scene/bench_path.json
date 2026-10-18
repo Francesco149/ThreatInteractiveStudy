@@ -1,0 +1,350 @@
+{
+  "duration": 40.0,
+  "coordinate_system": "glTF (+Y up, meters); same frame as courtyard.gltf",
+  "keys": [
+    {
+      "t": 0.0,
+      "pos": [
+        -15.0,
+        12.0,
+        15.5
+      ],
+      "target": [
+        4.0,
+        1.0,
+        -4.0
+      ],
+      "note": "overview of the square from the SW corner"
+    },
+    {
+      "t": 4.0,
+      "pos": [
+        -9.0,
+        6.0,
+        13.0
+      ],
+      "target": [
+        4.0,
+        1.0,
+        -2.0
+      ],
+      "note": "descending"
+    },
+    {
+      "t": 7.0,
+      "pos": [
+        -12.5,
+        1.8,
+        3.5
+      ],
+      "target": [
+        -8.0,
+        0.8,
+        8.0
+      ],
+      "note": "round flower bed (dense alpha cards)"
+    },
+    {
+      "t": 10.0,
+      "pos": [
+        -14.8,
+        2.0,
+        -3.4
+      ],
+      "target": [
+        -12.5,
+        1.6,
+        -9.0
+      ],
+      "note": "stepping into the park"
+    },
+    {
+      "t": 13.0,
+      "pos": [
+        -14.6,
+        2.0,
+        -8.0
+      ],
+      "target": [
+        -10.0,
+        2.0,
+        -11.0
+      ],
+      "note": "walking through grass under the trees"
+    },
+    {
+      "t": 16.0,
+      "pos": [
+        -11.0,
+        2.0,
+        -10.4
+      ],
+      "target": [
+        -6.0,
+        2.2,
+        -12.0
+      ],
+      "note": "dense foliage, windmill"
+    },
+    {
+      "t": 19.0,
+      "pos": [
+        -6.6,
+        2.0,
+        -12.2
+      ],
+      "target": [
+        0.0,
+        1.8,
+        -6.0
+      ],
+      "note": "leaving the park"
+    },
+    {
+      "t": 22.0,
+      "pos": [
+        4.0,
+        1.7,
+        -4.0
+      ],
+      "target": [
+        12.9,
+        1.6,
+        1.6
+      ],
+      "note": "walking towards the busts"
+    },
+    {
+      "t": 25.0,
+      "pos": [
+        11.5,
+        1.62,
+        2.3
+      ],
+      "target": [
+        12.9,
+        1.55,
+        1.6
+      ],
+      "note": "close-up bust A (skin SSS)"
+    },
+    {
+      "t": 27.5,
+      "pos": [
+        11.4,
+        1.62,
+        5.0
+      ],
+      "target": [
+        12.9,
+        1.45,
+        4.5
+      ],
+      "note": "pan"
+    },
+    {
+      "t": 29.5,
+      "pos": [
+        11.3,
+        1.62,
+        7.0
+      ],
+      "target": [
+        12.9,
+        1.57,
+        7.4
+      ],
+      "note": "close-up bust B"
+    },
+    {
+      "t": 30.5,
+      "pos": [
+        11.0,
+        1.7,
+        7.0
+      ],
+      "target": [
+        14.0,
+        1.6,
+        7.5
+      ],
+      "note": "start of the fast turn"
+    },
+    {
+      "t": 30.9,
+      "pos": [
+        11.0,
+        1.7,
+        7.0
+      ],
+      "target": [
+        11.0,
+        1.7,
+        4.0
+      ],
+      "note": "fast 180 degree turn (motion blur)"
+    },
+    {
+      "t": 31.3,
+      "pos": [
+        11.0,
+        1.7,
+        7.0
+      ],
+      "target": [
+        8.0,
+        1.7,
+        7.5
+      ],
+      "note": "turn finished, facing the low sun"
+    },
+    {
+      "t": 33.5,
+      "pos": [
+        6.0,
+        1.7,
+        12.0
+      ],
+      "target": [
+        -9.0,
+        3.5,
+        18.4
+      ],
+      "note": "street lamps along the south sidewalk"
+    },
+    {
+      "t": 36.5,
+      "pos": [
+        -1.0,
+        1.8,
+        11.0
+      ],
+      "target": [
+        -3.0,
+        1.0,
+        13.6
+      ],
+      "note": "the moving handcart"
+    },
+    {
+      "t": 40.0,
+      "pos": [
+        3.6,
+        1.7,
+        16.2
+      ],
+      "target": [
+        6.5,
+        2.6,
+        22.8
+      ],
+      "note": "into the arcade"
+    }
+  ],
+  "viewpoints": [
+    {
+      "name": "square_overview",
+      "pos": [
+        -15.0,
+        12.0,
+        15.5
+      ],
+      "target": [
+        4.0,
+        1.0,
+        -4.0
+      ]
+    },
+    {
+      "name": "foliage_dense",
+      "pos": [
+        -13.5,
+        1.15,
+        -4.2
+      ],
+      "target": [
+        -11.0,
+        2.8,
+        -11.0
+      ]
+    },
+    {
+      "name": "busts_closeup",
+      "pos": [
+        11.95,
+        1.6,
+        2.05
+      ],
+      "target": [
+        12.9,
+        1.55,
+        1.6
+      ]
+    },
+    {
+      "name": "lamps",
+      "pos": [
+        4.5,
+        1.7,
+        12.0
+      ],
+      "target": [
+        -12.0,
+        3.0,
+        18.4
+      ]
+    },
+    {
+      "name": "arcade",
+      "pos": [
+        3.6,
+        1.7,
+        16.2
+      ],
+      "target": [
+        6.5,
+        2.6,
+        22.8
+      ]
+    },
+    {
+      "name": "skyline",
+      "pos": [
+        10.0,
+        1.6,
+        12.0
+      ],
+      "target": [
+        -6.0,
+        18.0,
+        -36.0
+      ]
+    },
+    {
+      "name": "cafe_neon",
+      "pos": [
+        14.0,
+        1.7,
+        10.5
+      ],
+      "target": [
+        17.0,
+        2.8,
+        20.0
+      ]
+    },
+    {
+      "name": "market",
+      "pos": [
+        6.0,
+        1.7,
+        -9.0
+      ],
+      "target": [
+        12.0,
+        1.5,
+        -7.5
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+config,view,metric,ms
+"default","square_overview",GPU frame (mean),10.3982
+"default","square_overview",GPU frame (median),10.4603
+"default","square_overview",GPU frame (p95),10.7735
+"default","square_overview",CPU (mean),2.1829
+"default","square_overview","Sky LUTs",0.0000
+"default","square_overview","Shadows",3.6516
+"default","square_overview","Shadows/Cascade 0",0.1776
+"default","square_overview","Shadows/Cascade 1",0.3780
+"default","square_overview","Shadows/Cascade 2",0.3681
+"default","square_overview","Shadows/Cascade 3",0.2255
+"default","square_overview","Shadows/Local lights",2.5009
+"default","square_overview","Clears",0.0212
+"default","square_overview","Depth pre-pass",0.0808
+"default","square_overview","Base pass",2.0672
+"default","square_overview","Base pass/opaque",0.1152
+"default","square_overview","Base pass/far alpha-tested",1.7715
+"default","square_overview","Base pass/pre-passed (EQUAL)",0.1802
+"default","square_overview","Decals",0.0070
+"default","square_overview","MSAA edge stencil",0.0781
+"default","square_overview","GTAO",0.6098
+"default","square_overview","GTAO/Linear depth",0.0325
+"default","square_overview","GTAO/Horizon search",0.4136
+"default","square_overview","GTAO/Denoise 4x4",0.1561
+"default","square_overview","Sun + ambient",0.9727
+"default","square_overview","Local lights",1.1188
+"default","square_overview","Subsurface scattering",0.0322
+"default","square_overview","Compose",0.1920
+"default","square_overview","Sky",0.0115
+"default","square_overview","Transparents + VFX",0.1305
+"default","square_overview","Transparents + VFX/Glass (forward)",0.0030
+"default","square_overview","Transparents + VFX/Half-res depth (min/max)",0.0314
+"default","square_overview","Transparents + VFX/Particles (half res)",0.0172
+"default","square_overview","Transparents + VFX/Particle composite (upsample)",0.0789
+"default","square_overview","Exposure",0.0495
+"default","square_overview","Bloom",0.2030
+"default","square_overview","Bloom/Bloom downsample",0.1539
+"default","square_overview","Bloom/Bloom upsample",0.0491
+"default","square_overview","Tone LUT bake",0.0000
+"default","square_overview","Tone map",0.1364
+"default","square_overview","Anti-aliasing",0.7150
+"default","square_overview","Anti-aliasing/SMAA edges",0.1000
+"default","square_overview","Anti-aliasing/SMAA weights",0.2655
+"default","square_overview","Anti-aliasing/SMAA blend",0.2213
+"default","square_overview","Anti-aliasing/Temporal resolve (2 frames)",0.1086
+"default","square_overview","Motion blur",0.2702
+"default","square_overview","Motion blur/Velocity pack + tile max",0.0874
+"default","square_overview","Motion blur/Neighbor max",0.0044
+"default","square_overview","Motion blur/Motion blur pass 1 (trailing)",0.1170
+"default","square_overview","Motion blur/Motion blur pass 2 (separable)",0.0614
+"default","square_overview","Final output + UI composite",0.0492
+"default","foliage_dense",GPU frame (mean),11.7598
+"default","foliage_dense",GPU frame (median),11.7693
+"default","foliage_dense",GPU frame (p95),12.2196
+"default","foliage_dense",CPU (mean),1.3115
+"default","foliage_dense","Sky LUTs",0.0000
+"default","foliage_dense","Shadows",4.7834
+"default","foliage_dense","Shadows/Cascade 0",0.8080
+"default","foliage_dense","Shadows/Cascade 1",0.7472
+"default","foliage_dense","Shadows/Cascade 2",0.3005
+"default","foliage_dense","Shadows/Cascade 3",0.1448
+"default","foliage_dense","Shadows/Local lights",2.7814
+"default","foliage_dense","Clears",0.0210
+"default","foliage_dense","Depth pre-pass",0.0908
+"default","foliage_dense","Base pass",3.1212
+"default","foliage_dense","Base pass/close alpha-tested",2.6228
+"default","foliage_dense","Base pass/opaque",0.0332
+"default","foliage_dense","Base pass/far alpha-tested",0.3369
+"default","foliage_dense","Base pass/pre-passed (EQUAL)",0.1279
+"default","foliage_dense","Decals",0.0019
+"default","foliage_dense","MSAA edge stencil",0.0729
+"default","foliage_dense","GTAO",0.6328
+"default","foliage_dense","GTAO/Linear depth",0.0304
+"default","foliage_dense","GTAO/Horizon search",0.4512
+"default","foliage_dense","GTAO/Denoise 4x4",0.1501
+"default","foliage_dense","Sun + ambient",0.8033
+"default","foliage_dense","Local lights",0.5281
+"default","foliage_dense","Subsurface scattering",0.0000
+"default","foliage_dense","Compose",0.1790
+"default","foliage_dense","Sky",0.0113
+"default","foliage_dense","Transparents + VFX",0.1175
+"default","foliage_dense","Transparents + VFX/Glass (forward)",0.0011
+"default","foliage_dense","Transparents + VFX/Half-res depth (min/max)",0.0345
+"default","foliage_dense","Transparents + VFX/Particles (half res)",0.0085
+"default","foliage_dense","Transparents + VFX/Particle composite (upsample)",0.0733
+"default","foliage_dense","Exposure",0.0486
+"default","foliage_dense","Bloom",0.2040
+"default","foliage_dense","Bloom/Bloom downsample",0.1553
+"default","foliage_dense","Bloom/Bloom upsample",0.0482
+"default","foliage_dense","Tone LUT bake",0.0000
+"default","foliage_dense","Tone map",0.1367
+"default","foliage_dense","Anti-aliasing",0.6534
+"default","foliage_dense","Anti-aliasing/SMAA edges",0.0986
+"default","foliage_dense","Anti-aliasing/SMAA weights",0.2167
+"default","foliage_dense","Anti-aliasing/SMAA blend",0.2187
+"default","foliage_dense","Anti-aliasing/Temporal resolve (2 frames)",0.0946
+"default","foliage_dense","Motion blur",0.3041
+"default","foliage_dense","Motion blur/Velocity pack + tile max",0.0874
+"default","foliage_dense","Motion blur/Neighbor max",0.0044
+"default","foliage_dense","Motion blur/Motion blur pass 1 (trailing)",0.1422
+"default","foliage_dense","Motion blur/Motion blur pass 2 (separable)",0.0702
+"default","foliage_dense","Final output + UI composite",0.0490
+"default","busts_closeup",GPU frame (mean),6.4038
+"default","busts_closeup",GPU frame (median),6.2747
+"default","busts_closeup",GPU frame (p95),6.8519
+"default","busts_closeup",CPU (mean),0.9648
+"default","busts_closeup","Sky LUTs",0.0000
+"default","busts_closeup","Shadows",1.6319
+"default","busts_closeup","Shadows/Cascade 0",0.2575
+"default","busts_closeup","Shadows/Cascade 1",0.5141
+"default","busts_closeup","Shadows/Cascade 2",0.4148
+"default","busts_closeup","Shadows/Cascade 3",0.2346
+"default","busts_closeup","Shadows/Local lights",0.2096
+"default","busts_closeup","Clears",0.0212
+"default","busts_closeup","Depth pre-pass",0.1004
+"default","busts_closeup","Base pass",0.6249
+"default","busts_closeup","Base pass/close alpha-tested",0.0069
+"default","busts_closeup","Base pass/opaque",0.0431
+"default","busts_closeup","Base pass/far alpha-tested",0.2067
+"default","busts_closeup","Base pass/pre-passed (EQUAL)",0.3679
+"default","busts_closeup","Decals",0.0059
+"default","busts_closeup","MSAA edge stencil",0.0772
+"default","busts_closeup","GTAO",0.6811
+"default","busts_closeup","GTAO/Linear depth",0.0312
+"default","busts_closeup","GTAO/Horizon search",0.4829
+"default","busts_closeup","GTAO/Denoise 4x4",0.1660
+"default","busts_closeup","Sun + ambient",0.8431
+"default","busts_closeup","Local lights",0.8549
+"default","busts_closeup","Subsurface scattering",0.0406
+"default","busts_closeup","Compose",0.1612
+"default","busts_closeup","Sky",0.0103
+"default","busts_closeup","Transparents + VFX",0.1101
+"default","busts_closeup","Transparents + VFX/Glass (forward)",0.0022
+"default","busts_closeup","Transparents + VFX/Half-res depth (min/max)",0.0317
+"default","busts_closeup","Transparents + VFX/Particles (half res)",0.0004
+"default","busts_closeup","Transparents + VFX/Particle composite (upsample)",0.0758
+"default","busts_closeup","Exposure",0.0454
+"default","busts_closeup","Bloom",0.2059
+"default","busts_closeup","Bloom/Bloom downsample",0.1560
+"default","busts_closeup","Bloom/Bloom upsample",0.0494
+"default","busts_closeup","Tone LUT bake",0.0000
+"default","busts_closeup","Tone map",0.1291
+"default","busts_closeup","Anti-aliasing",0.6047
+"default","busts_closeup","Anti-aliasing/SMAA edges",0.0936
+"default","busts_closeup","Anti-aliasing/SMAA weights",0.2006
+"default","busts_closeup","Anti-aliasing/SMAA blend",0.2082
+"default","busts_closeup","Anti-aliasing/Temporal resolve (2 frames)",0.0830
+"default","busts_closeup","Motion blur",0.2033
+"default","busts_closeup","Motion blur/Velocity pack + tile max",0.0858
+"default","busts_closeup","Motion blur/Neighbor max",0.0044
+"default","busts_closeup","Motion blur/Motion blur pass 1 (trailing)",0.0697
+"default","busts_closeup","Motion blur/Motion blur pass 2 (separable)",0.0434
+"default","busts_closeup","Final output + UI composite",0.0515
+"default","lamps",GPU frame (mean),5.7144
+"default","lamps",GPU frame (median),5.5971
+"default","lamps",GPU frame (p95),6.1397
+"default","lamps",CPU (mean),1.1371
+"default","lamps","Sky LUTs",0.0000
+"default","lamps","Shadows",1.3812
+"default","lamps","Shadows/Cascade 0",0.1965
+"default","lamps","Shadows/Cascade 1",0.1850
+"default","lamps","Shadows/Cascade 2",0.1033
+"default","lamps","Shadows/Cascade 3",0.0559
+"default","lamps","Shadows/Local lights",0.8393
+"default","lamps","Clears",0.0210
+"default","lamps","Depth pre-pass",0.0702
+"default","lamps","Base pass",0.8726
+"default","lamps","Base pass/close alpha-tested",0.0293
+"default","lamps","Base pass/opaque",0.0409
+"default","lamps","Base pass/far alpha-tested",0.5645
+"default","lamps","Base pass/pre-passed (EQUAL)",0.2376
+"default","lamps","Decals",0.0061
+"default","lamps","MSAA edge stencil",0.0661
+"default","lamps","GTAO",0.5835
+"default","lamps","GTAO/Linear depth",0.0309
+"default","lamps","GTAO/Horizon search",0.4102
+"default","lamps","GTAO/Denoise 4x4",0.1413
+"default","lamps","Sun + ambient",0.7029
+"default","lamps","Local lights",0.4179
+"default","lamps","Subsurface scattering",0.0000
+"default","lamps","Compose",0.1579
+"default","lamps","Sky",0.0400
+"default","lamps","Transparents + VFX",0.1659
+"default","lamps","Transparents + VFX/Glass (forward)",0.0013
+"default","lamps","Transparents + VFX/Half-res depth (min/max)",0.0348
+"default","lamps","Transparents + VFX/Particles (half res)",0.0599
+"default","lamps","Transparents + VFX/Particle composite (upsample)",0.0699
+"default","lamps","Exposure",0.0431
+"default","lamps","Bloom",0.2024
+"default","lamps","Bloom/Bloom downsample",0.1537
+"default","lamps","Bloom/Bloom upsample",0.0482
+"default","lamps","Tone LUT bake",0.0000
+"default","lamps","Tone map",0.1328
+"default","lamps","Anti-aliasing",0.5773
+"default","lamps","Anti-aliasing/SMAA edges",0.0943
+"default","lamps","Anti-aliasing/SMAA weights",0.1752
+"default","lamps","Anti-aliasing/SMAA blend",0.2097
+"default","lamps","Anti-aliasing/Temporal resolve (2 frames)",0.0802
+"default","lamps","Motion blur",0.2222
+"default","lamps","Motion blur/Velocity pack + tile max",0.0829
+"default","lamps","Motion blur/Neighbor max",0.0057
+"default","lamps","Motion blur/Motion blur pass 1 (trailing)",0.0890
+"default","lamps","Motion blur/Motion blur pass 2 (separable)",0.0446
+"default","lamps","Final output + UI composite",0.0503
+"default","arcade",GPU frame (mean),4.2354
+"default","arcade",GPU frame (median),4.1110
+"default","arcade",GPU frame (p95),4.7222
+"default","arcade",CPU (mean),0.3367
+"default","arcade","Sky LUTs",0.0000
+"default","arcade","Shadows",0.5647
+"default","arcade","Shadows/Cascade 0",0.1002
+"default","arcade","Shadows/Cascade 1",0.2705
+"default","arcade","Shadows/Cascade 2",0.0846
+"default","arcade","Shadows/Cascade 3",0.0256
+"default","arcade","Shadows/Local lights",0.0825
+"default","arcade","Clears",0.0211
+"default","arcade","Depth pre-pass",0.0457
+"default","arcade","Base pass",0.3034
+"default","arcade","Base pass/close alpha-tested",0.0009
+"default","arcade","Base pass/opaque",0.0036
+"default","arcade","Base pass/far alpha-tested",0.0781
+"default","arcade","Base pass/pre-passed (EQUAL)",0.2205
+"default","arcade","Decals",0.0055
+"default","arcade","MSAA edge stencil",0.0694
+"default","arcade","GTAO",0.7044
+"default","arcade","GTAO/Linear depth",0.0297
+"default","arcade","GTAO/Horizon search",0.5123
+"default","arcade","GTAO/Denoise 4x4",0.1614
+"default","arcade","Sun + ambient",0.7467
+"default","arcade","Local lights",0.3512
+"default","arcade","Subsurface scattering",0.0000
+"default","arcade","Compose",0.1403
+"default","arcade","Sky",0.0089
+"default","arcade","Transparents + VFX",0.1055
+"default","arcade","Transparents + VFX/Glass (forward)",0.0033
+"default","arcade","Transparents + VFX/Half-res depth (min/max)",0.0336
+"default","arcade","Transparents + VFX/Particles (half res)",0.0004
+"default","arcade","Transparents + VFX/Particle composite (upsample)",0.0682
+"default","arcade","Exposure",0.0405
+"default","arcade","Bloom",0.2032
+"default","arcade","Bloom/Bloom downsample",0.1536
+"default","arcade","Bloom/Bloom upsample",0.0495
+"default","arcade","Tone LUT bake",0.0000
+"default","arcade","Tone map",0.1272
+"default","arcade","Anti-aliasing",0.5572
+"default","arcade","Anti-aliasing/SMAA edges",0.0864
+"default","arcade","Anti-aliasing/SMAA weights",0.0680
+"default","arcade","Anti-aliasing/SMAA blend",0.3190
+"default","arcade","Anti-aliasing/Temporal resolve (2 frames)",0.0646
+"default","arcade","Motion blur",0.1877
+"default","arcade","Motion blur/Velocity pack + tile max",0.0858
+"default","arcade","Motion blur/Neighbor max",0.0043
+"default","arcade","Motion blur/Motion blur pass 1 (trailing)",0.0594
+"default","arcade","Motion blur/Motion blur pass 2 (separable)",0.0381
+"default","arcade","Final output + UI composite",0.0516
+"default","skyline",GPU frame (mean),8.4014
+"default","skyline",GPU frame (median),8.4544
+"default","skyline",GPU frame (p95),8.8213
+"default","skyline",CPU (mean),1.6597
+"default","skyline","Sky LUTs",0.0000
+"default","skyline","Shadows",3.0881
+"default","skyline","Shadows/Cascade 0",0.2368
+"default","skyline","Shadows/Cascade 1",0.3519
+"default","skyline","Shadows/Cascade 2",0.2674
+"default","skyline","Shadows/Cascade 3",0.0992
+"default","skyline","Shadows/Local lights",2.1316
+"default","skyline","Clears",0.0210
+"default","skyline","Depth pre-pass",0.0676
+"default","skyline","Base pass",1.3754
+"default","skyline","Base pass/close alpha-tested",0.0000
+"default","skyline","Base pass/opaque",0.1144
+"default","skyline","Base pass/far alpha-tested",1.1054
+"default","skyline","Base pass/pre-passed (EQUAL)",0.1552
+"default","skyline","Decals",0.0053
+"default","skyline","MSAA edge stencil",0.0608
+"default","skyline","GTAO",0.4179
+"default","skyline","GTAO/Linear depth",0.0334
+"default","skyline","GTAO/Horizon search",0.2725
+"default","skyline","GTAO/Denoise 4x4",0.1110
+"default","skyline","Sun + ambient",0.6015
+"default","skyline","Local lights",1.1708
+"default","skyline","Subsurface scattering",0.0413
+"default","skyline","Compose",0.1769
+"default","skyline","Sky",0.0268
+"default","skyline","Transparents + VFX",0.1431
+"default","skyline","Transparents + VFX/Glass (forward)",0.0005
+"default","skyline","Transparents + VFX/Half-res depth (min/max)",0.0321
+"default","skyline","Transparents + VFX/Particles (half res)",0.0379
+"default","skyline","Transparents + VFX/Particle composite (upsample)",0.0726
+"default","skyline","Exposure",0.0452
+"default","skyline","Bloom",0.2042
+"default","skyline","Bloom/Bloom downsample",0.1533
+"default","skyline","Bloom/Bloom upsample",0.0508
+"default","skyline","Tone LUT bake",0.0000
+"default","skyline","Tone map",0.1261
+"default","skyline","Anti-aliasing",0.5486
+"default","skyline","Anti-aliasing/SMAA edges",0.0918
+"default","skyline","Anti-aliasing/SMAA weights",0.1520
+"default","skyline","Anti-aliasing/SMAA blend",0.2056
+"default","skyline","Anti-aliasing/Temporal resolve (2 frames)",0.0798
+"default","skyline","Motion blur",0.2301
+"default","skyline","Motion blur/Velocity pack + tile max",0.0838
+"default","skyline","Motion blur/Neighbor max",0.0043
+"default","skyline","Motion blur/Motion blur pass 1 (trailing)",0.0947
+"default","skyline","Motion blur/Motion blur pass 2 (separable)",0.0464
+"default","skyline","Final output + UI composite",0.0497
+"default","cafe_neon",GPU frame (mean),5.4442
+"default","cafe_neon",GPU frame (median),5.4133
+"default","cafe_neon",GPU frame (p95),5.9010
+"default","cafe_neon",CPU (mean),0.7005
+"default","cafe_neon","Sky LUTs",0.0000
+"default","cafe_neon","Shadows",1.1752
+"default","cafe_neon","Shadows/Cascade 0",0.1369
+"default","cafe_neon","Shadows/Cascade 1",0.2792
+"default","cafe_neon","Shadows/Cascade 2",0.0966
+"default","cafe_neon","Shadows/Cascade 3",0.0256
+"default","cafe_neon","Shadows/Local lights",0.6355
+"default","cafe_neon","Clears",0.0213
+"default","cafe_neon","Depth pre-pass",0.0849
+"default","cafe_neon","Base pass",0.4403
+"default","cafe_neon","Base pass/close alpha-tested",0.0118
+"default","cafe_neon","Base pass/opaque",0.0196
+"default","cafe_neon","Base pass/far alpha-tested",0.0911
+"default","cafe_neon","Base pass/pre-passed (EQUAL)",0.3175
+"default","cafe_neon","Decals",0.0004
+"default","cafe_neon","MSAA edge stencil",0.0735
+"default","cafe_neon","GTAO",0.6982
+"default","cafe_neon","GTAO/Linear depth",0.0351
+"default","cafe_neon","GTAO/Horizon search",0.5009
+"default","cafe_neon","GTAO/Denoise 4x4",0.1611
+"default","cafe_neon","Sun + ambient",0.8764
+"default","cafe_neon","Local lights",0.5965
+"default","cafe_neon","Subsurface scattering",0.0000
+"default","cafe_neon","Compose",0.1653
+"default","cafe_neon","Sky",0.0097
+"default","cafe_neon","Transparents + VFX",0.1188
+"default","cafe_neon","Transparents + VFX/Glass (forward)",0.0094
+"default","cafe_neon","Transparents + VFX/Half-res depth (min/max)",0.0335
+"default","cafe_neon","Transparents + VFX/Particles (half res)",0.0004
+"default","cafe_neon","Transparents + VFX/Particle composite (upsample)",0.0755
+"default","cafe_neon","Exposure",0.0449
+"default","cafe_neon","Bloom",0.2022
+"default","cafe_neon","Bloom/Bloom downsample",0.1533
+"default","cafe_neon","Bloom/Bloom upsample",0.0484
+"default","cafe_neon","Tone LUT bake",0.0000
+"default","cafe_neon","Tone map",0.1285
+"default","cafe_neon","Anti-aliasing",0.5664
+"default","cafe_neon","Anti-aliasing/SMAA edges",0.0905
+"default","cafe_neon","Anti-aliasing/SMAA weights",0.1662
+"default","cafe_neon","Anti-aliasing/SMAA blend",0.2097
+"default","cafe_neon","Anti-aliasing/Temporal resolve (2 frames)",0.0813
+"default","cafe_neon","Motion blur",0.1899
+"default","cafe_neon","Motion blur/Velocity pack + tile max",0.0841
+"default","cafe_neon","Motion blur/Neighbor max",0.0044
+"default","cafe_neon","Motion blur/Motion blur pass 1 (trailing)",0.0621
+"default","cafe_neon","Motion blur/Motion blur pass 2 (separable)",0.0393
+"default","cafe_neon","Final output + UI composite",0.0502
+"default","market",GPU frame (mean),7.0884
+"default","market",GPU frame (median),7.0060
+"default","market",GPU frame (p95),7.5070
+"default","market",CPU (mean),1.1357
+"default","market","Sky LUTs",0.0000
+"default","market","Shadows",2.0426
+"default","market","Shadows/Cascade 0",0.5333
+"default","market","Shadows/Cascade 1",0.5542
+"default","market","Shadows/Cascade 2",0.2705
+"default","market","Shadows/Cascade 3",0.1511
+"default","market","Shadows/Local lights",0.5322
+"default","market","Clears",0.0212
+"default","market","Depth pre-pass",0.0890
+"default","market","Base pass",0.7026
+"default","market","Base pass/close alpha-tested",0.2265
+"default","market","Base pass/opaque",0.0475
+"default","market","Base pass/far alpha-tested",0.1204
+"default","market","Base pass/pre-passed (EQUAL)",0.3078
+"default","market","Decals",0.0081
+"default","market","MSAA edge stencil",0.0715
+"default","market","GTAO",0.7231
+"default","market","GTAO/Linear depth",0.0299
+"default","market","GTAO/Horizon search",0.4658
+"default","market","GTAO/Denoise 4x4",0.2264
+"default","market","Sun + ambient",0.8536
+"default","market","Local lights",0.9064
+"default","market","Subsurface scattering",0.0364
+"default","market","Compose",0.1613
+"default","market","Sky",0.0106
+"default","market","Transparents + VFX",0.1132
+"default","market","Transparents + VFX/Glass (forward)",0.0017
+"default","market","Transparents + VFX/Half-res depth (min/max)",0.0343
+"default","market","Transparents + VFX/Particles (half res)",0.0040
+"default","market","Transparents + VFX/Particle composite (upsample)",0.0732
+"default","market","Exposure",0.0440
+"default","market","Bloom",0.2035
+"default","market","Bloom/Bloom downsample",0.1536
+"default","market","Bloom/Bloom upsample",0.0494
+"default","market","Tone LUT bake",0.0000
+"default","market","Tone map",0.1321
+"default","market","Anti-aliasing",0.6908
+"default","market","Anti-aliasing/SMAA edges",0.1053
+"default","market","Anti-aliasing/SMAA weights",0.2573
+"default","market","Anti-aliasing/SMAA blend",0.2176
+"default","market","Anti-aliasing/Temporal resolve (2 frames)",0.0894
+"default","market","Motion blur",0.2272
+"default","market","Motion blur/Velocity pack + tile max",0.0835
+"default","market","Motion blur/Neighbor max",0.0044
+"default","market","Motion blur/Motion blur pass 1 (trailing)",0.0897
+"default","market","Motion blur/Motion blur pass 2 (separable)",0.0496
+"default","market","Final output + UI composite",0.0502
+"default","camera path",GPU frame (mean),7.9352
+"default","camera path",GPU frame (median),6.5729
+"default","camera path",GPU frame (p95),13.1751
+"default","camera path",CPU (mean),1.2236
+"default","camera path","Sky LUTs",0.0000
+"default","camera path","Shadows",2.7281
+"default","camera path","Shadows/Cascade 0",0.4694
+"default","camera path","Shadows/Cascade 1",0.4567
+"default","camera path","Shadows/Cascade 2",0.2418
+"default","camera path","Shadows/Cascade 3",0.1424
+"default","camera path","Shadows/Local lights",1.4166
+"default","camera path","Clears",0.0210
+"default","camera path","Depth pre-pass",0.0722
+"default","camera path","Base pass",1.2702
+"default","camera path","Base pass/close alpha-tested",0.6704
+"default","camera path","Base pass/opaque",0.0531
+"default","camera path","Base pass/far alpha-tested",0.3028
+"default","camera path","Base pass/pre-passed (EQUAL)",0.2436
+"default","camera path","Decals",0.0065
+"default","camera path","MSAA edge stencil",0.0724
+"default","camera path","GTAO",0.6428
+"default","camera path","GTAO/Linear depth",0.0316
+"default","camera path","GTAO/Horizon search",0.4572
+"default","camera path","GTAO/Denoise 4x4",0.1530
+"default","camera path","Sun + ambient",0.7875
+"default","camera path","Local lights",0.7139
+"default","camera path","Subsurface scattering",0.0152
+"default","camera path","Compose",0.1662
+"default","camera path","Sky",0.0187
+"default","camera path","Transparents + VFX",0.1256
+"default","camera path","Transparents + VFX/Glass (forward)",0.0020
+"default","camera path","Transparents + VFX/Half-res depth (min/max)",0.0333
+"default","camera path","Transparents + VFX/Particles (half res)",0.0171
+"default","camera path","Transparents + VFX/Particle composite (upsample)",0.0732
+"default","camera path","Exposure",0.0457
+"default","camera path","Bloom",0.2077
+"default","camera path","Bloom/Bloom downsample",0.1531
+"default","camera path","Bloom/Bloom upsample",0.0542
+"default","camera path","Tone LUT bake",0.0000
+"default","camera path","Tone map",0.1289
+"default","camera path","Anti-aliasing",0.5779
+"default","camera path","Anti-aliasing/SMAA edges",0.0951
+"default","camera path","Anti-aliasing/SMAA weights",0.1886
+"default","camera path","Anti-aliasing/SMAA blend",0.2068
+"default","camera path","Anti-aliasing/Temporal resolve (2 frames)",0.0671
+"default","camera path","Motion blur",0.2836
+"default","camera path","Motion blur/Velocity pack + tile max",0.0863
+"default","camera path","Motion blur/Neighbor max",0.0044
+"default","camera path","Motion blur/Motion blur pass 1 (trailing)",0.1327
+"default","camera path","Motion blur/Motion blur pass 2 (separable)",0.0601
+"default","camera path","Final output + UI composite",0.0502
